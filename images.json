@@ -1,0 +1,1560 @@
+{"images": [
+
+
+
+
+{"_id": "george-1"
+    , "folder": "photos/2017/05-May/2017-05-10/george-1"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+    , "setCount": "6"
+},
+
+{"_id": "george-2"
+    , "folder": "photos/2017/05-May/2017-05-10/george-2"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+},
+
+
+{"_id": "george-4"
+    , "folder": "photos/2017/05-May/2017-05-10/george-4"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+},
+
+{"_id": "george-5"
+    , "folder": "photos/2017/05-May/2017-05-10/george-5"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+},
+
+{"_id": "george-6"
+    , "folder": "photos/2017/05-May/2017-05-10/george-6"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+},
+
+
+{"_id": "george-3"
+    , "folder": "photos/2017/05-May/2017-05-10/george-3"
+    , "title": "George"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"George Summers Jr"
+    , "partOfSet": true
+},
+
+
+
+
+{"_id": "jane-1"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-1"
+    , "title": "The Rockstar"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Jane Feigenson"
+    , "partOfSet": true
+    , "setCount": "4"
+},
+
+{"_id": "jane-2"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-2"
+    , "title": "The Inmate"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Jane Feigenson"
+    , "partOfSet": true
+},
+
+{"_id": "jane-3"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-3"
+    , "title": "The Artist"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Jane Feigenson"
+    , "partOfSet": true
+},
+
+{"_id": "jane-4"
+    , "folder": "photos/2017/05-May/2017-05-19/jane-4"
+    , "title": "The Fighter"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Jane Feigenson"
+    , "partOfSet": true
+},
+
+
+{"_id": "zoe-1"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-1"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+    , "setCount": "4"
+},
+
+{"_id": "zoe-3"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-3"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+{"_id": "zoe-4"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-4"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+{"_id": "zoe-5"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-5"
+    , "title": "Zoe and Stanley"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe and Stanley"
+    , "partOfSet": true
+},
+
+
+
+{"_id": "bob-lg-1"
+    , "folder": "photos/2017/05-May/2017-05-06/bob-1"
+    , "title": "Robert Siegelman"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/lace-1"
+    , "title": "Grace and Zoe"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": true
+    , "set":"LACE"
+    , "partOfSet": true
+    , "setCount": "4"
+},
+
+{"_id": "lace-2"
+    , "folder": "photos/2017/05-May/2017-05-22/lace-2"
+    , "title": "Grace and Zoe"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"LACE"
+    , "partOfSet": true
+},
+
+{"_id": "zoe-lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/zoe-1"
+    , "title": "Zoe"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"LACE"
+    , "partOfSet": true
+},
+
+{"_id": "grace-lace-1"
+    , "folder": "photos/2017/05-May/2017-05-22/grace-1"
+    , "title": "Grace"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"LACE"
+    , "partOfSet": true
+},
+
+{"_id": "esther-1"
+    , "folder": "photos/2017/06-June/2017-06-13/esther-1"
+    , "title": "Esther"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Esther"
+    , "partOfSet": true
+    , "setCount": "2"
+
+},
+
+{"_id": "esther-2"
+    , "folder": "photos/2017/06-June/2017-06-13/esther-2"
+    , "title": "Esther"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": true
+    , "set":"Esther"
+    , "partOfSet": true
+},
+
+{"_id": "esther-3"
+    , "folder": "photos/2017/06-June/2017-06-13/esther-3"
+    , "title": "Esther"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "stephanie-1"
+    , "folder": "photos/2017/02-February/2017-02-11/stephanie-1"
+    , "title": "Stephanie"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": true
+},
+
+{"_id": "alexa-1"
+    , "folder": "photos/2017/05-May/2017-05-03/alexa-1"
+    , "title": "Alexa"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "alicia-1"
+    , "folder": "photos/2017/05-May/2017-05-03/alicia-1"
+    , "title": "Alicia"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "Jenny-3"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-1"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+},
+
+{"_id": "Jenny-4"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-2"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+        , "setCount": "5"
+},
+
+{"_id": "Jenny-5"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-3"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+},
+
+{"_id": "Jenny-6"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-4"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+},
+
+{"_id": "Jenny-7"
+    , "folder": "photos/2017/05-May/2017-05-27/jenny-5"
+    , "title": "Jenny and Bodhi"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Jenny and Bodhi"
+    , "partOfSet": true
+},
+
+{"_id": "dave-2"
+    , "folder": "photos/2017/03-March/2017-03-19/dave-2"
+    , "title": "Dave"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+    , "setCount": "10"
+},
+
+{"_id": "dave-1"
+    , "folder": "photos/2017/03-March/2017-03-19/dave-1"
+    , "title": "Dave"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+{ "_id": "lg-1"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-1"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+{ "_id": "lg-2"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-2"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+{ "_id": "lg-3"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-3"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+{ "_id": "lg-4"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-4"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+{ "_id": "lg-5"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-5"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+{ "_id": "lg-6"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-6"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+{ "_id": "lg-7"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-7"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+{ "_id": "lg-8"
+    , "folder": "photos/2017/05-May/2017-05-06/lg-8"
+    , "title": "The Loring-Greenough House - The Change"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Dave Nash"
+    , "partOfSet": true
+},
+
+
+
+{"_id": "jan-marie-1"
+    , "folder": "photos/2017/04-April/2017-04-08/jan-marie-1"
+    , "title": "Jan Marie"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Jan Marie"
+    , "partOfSet": true
+    , "setCount": "2"
+},
+
+{"_id": "jan-marie-2"
+    , "folder": "photos/2017/04-April/2017-04-08/jan-marie-2"
+    , "title": "Jan Marie"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Jan Marie"
+    , "partOfSet": true
+},
+
+
+{"_id": "amanda-1"
+    , "folder": "photos/2017/05-May/2017-05-17/amanda-1"
+    , "title": "Amanda"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+},
+
+{"_id": "abigale-1"
+    , "folder": "photos/2017/04-April/2017-04-06/abigale-1"
+    , "title": "Abigale"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Abigale"
+    , "partOfSet": true
+    , "setCount": "3"
+},
+
+{"_id": "abigale-2"
+    , "folder": "photos/2017/04-April/2017-04-06/abigale-2"
+    , "title": "Abigale"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Abigale"
+    , "partOfSet": true
+},
+
+{"_id": "abigale-3"
+    , "folder": "photos/2017/04-April/2017-04-06/abigale-3"
+    , "title": "Abigale"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Abigale"
+    , "partOfSet": true
+},
+
+{"_id": "sarah-3"
+    , "folder": "photos/2017/06-June/2017-06-20/sarah-1"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Sarah"
+    , "partOfSet": true
+    , "setCount": "3"
+},
+
+{"_id": "sarah-4"
+    , "folder": "photos/2017/06-June/2017-06-20/sarah-2"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Sarah"
+    , "partOfSet": true
+},
+
+{"_id": "sarah-5"
+    , "folder": "photos/2017/06-June/2017-06-20/sarah-3"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Sarah"
+    , "partOfSet": true
+},
+
+
+{"_id": "everything"
+    , "folder": "photos/2017/01-January/2017-01-07/flower"
+    , "title": "Everything"
+    , "year": "2017"
+    , "category": "Flowers"
+    , "viewOnCategories": true
+},
+
+{"_id": "jennifer-2"
+    , "folder": "photos/2017/03-March/2017-03-26/jennifer-2"
+    , "title": "Jennifer Mann"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Jennifer Mann"
+    , "partOfSet": true
+    , "setCount": "2"
+},
+
+{"_id": "jennifer-3"
+    , "folder": "photos/2017/03-March/2017-03-26/jennifer-3"
+    , "title": "Jennifer Mann"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Jennifer Mann"
+    , "partOfSet": true
+},
+
+{"_id": "bill-4"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-4"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+    , "setCount": "4"
+},
+
+{"_id": "bill-2"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-2"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+},
+
+{"_id": "bill-3"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-3"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+},
+
+{"_id": "bill-5"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-5"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+},
+
+{"_id": "bill-1"
+    , "folder": "photos/2017/05-May/2017-05-12/bill-1"
+    , "title": "Bill"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Bill"
+    , "partOfSet": true
+    , "hide": true
+},
+
+
+{"_id": "neal-1"
+    , "folder": "photos/2017/03-March/2017-03-08/neal-1"
+    , "title": "Neal"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "viewOnCategories": false
+    , "set": "Neal"
+    , "partOfSet": true
+    , "setCount": "3"
+},
+
+{"_id": "neal-3"
+    , "folder": "photos/2017/03-March/2017-03-08/neal-3"
+    , "title": "Neal"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "viewOnCategories": false
+    , "set": "Neal"
+    , "partOfSet": true
+},
+
+
+{"_id": "neal-4"
+    , "folder": "photos/2017/03-March/2017-03-08/neal-4"
+    , "title": "Neal"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "viewOnCategories": false
+    , "set": "Neal"
+    , "partOfSet": true
+},
+
+
+{"_id": "neal-2"
+    , "folder": "photos/2017/03-March/2017-03-08/neal-2"
+    , "title": "Neal"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "kate-1"
+    , "folder": "photos/2017/05-May/2017-05-20/kate-1"
+    , "title": "Kate"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "chantal-1"
+    , "folder": "photos/2017/04-April/2017-04-21/chantal-1"
+    , "title": "Chantal"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "ashish-1"
+    , "folder": "photos/2017/03-March/2017-03-07/ashish-1"
+    , "title": "Ashish"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+
+{"_id": "stephanie-3"
+    , "folder": "photos/2017/02-February/2017-02-11/stephanie-3"
+    , "title": "Stephanie"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "maureen-1"
+    , "folder": "photos/2017/03-March/2017-03-21/maureen-1"
+    , "title": "Maureen"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "fiona-1"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-1"
+    , "title": "Fiona"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Fiona"
+    , "partOfSet": true
+    , "setCount": "2"
+},
+
+{"_id": "fiona-2"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-2"
+    , "title": "Fiona"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Fiona"
+    , "partOfSet": true
+},
+
+
+{"_id": "zoe-2"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-2"
+    , "title": "Zoe"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe"
+    , "partOfSet": true
+    , "setCount": "2"
+},
+
+{"_id": "zoe-6"
+    , "folder": "photos/2017/02-February/2017-02-22/zoe-6"
+    , "title": "Zoe"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set":"Zoe"
+    , "partOfSet": true
+},
+
+{"_id": "julie-1"
+    , "folder": "photos/2017/02-February/2017-02-20/julie-1"
+    , "title": "Julie"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "jacy-1"
+    , "folder": "photos/2017/01-January/2017-01-22/jacy-1"
+    , "title": "Jacy"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "sarahw-1"
+    , "folder": "photos/2017/03-March/2017-03-13/sarah-1"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "martha-1"
+    , "folder": "photos/2017/03-March/2017-03-13/martha-1"
+    , "title": "Martha"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Martha"
+    , "partOfSet": true
+    , "setCount": "2"
+},
+
+{"_id": "martha-2"
+    , "folder": "photos/2017/03-March/2017-03-13/martha-2"
+    , "title": "Martha"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+    , "set": "Martha"
+    , "partOfSet": true
+},
+
+{"_id": "lynette-1"
+    , "folder": "photos/2017/03-March/2017-03-23/lynette-1"
+    , "title": "Lynette"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "saskia-1"
+    , "folder": "photos/2017/02-February/2017-02-23/saskia-1"
+    , "title": "Saskia"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "max-1"
+    , "folder": "photos/2017/02-February/2017-02-18/max-1"
+    , "title": "Max"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "sharon-1"
+    , "folder": "photos/2017/02-February/2017-02-04/sharon-1"
+    , "title": "Sharon"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "john-2"
+    , "folder": "photos/2017/02-February/2017-02-11/john-2"
+    , "title": "John"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "annesophia-1"
+    , "folder": "photos/2017/02-February/2017-02-11/annesophia-1"
+    , "title": "Anne-Sophia"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "micah-1"
+    , "folder": "photos/2017/02-February/2017-02-11/micah-1"
+    , "title": "Micah"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "ben-1"
+    , "folder": "photos/2017/03-March/2017-03-12/ben-1"
+    , "title": "Ben and Andrew"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "street-7"
+    , "folder": "photos/2017/07-July/2017-07-25/street-1"
+    , "title": "July 25, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+
+{"_id": "street-6"
+    , "folder": "photos/2017/07-July/2017-07-24/street-1"
+    , "title": "July 24, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-5"
+    , "folder": "photos/2017/06-June/2017-06-29/street-1"
+    , "title": "June 29, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-4"
+    , "folder": "photos/2017/06-June/2017-06-28/street-1"
+    , "title": "June 28, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-3"
+    , "folder": "photos/2017/06-June/2017-06-27/street-1"
+    , "title": "June 27, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+    , "setCount": "7"
+},
+
+{"_id": "street-2"
+    , "folder": "photos/2017/06-June/2017-06-26/street-1"
+    , "title": "June 26, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-1"
+    , "folder": "photos/2017/06-June/2017-06-22/street-1"
+    , "title": "June 22, 2017"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "catlabs-1"
+    , "folder": "photos/2017/06-June/2017-06-17/catlabs-1"
+    , "title": "Catlabs of JP"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Jamaica Plain"
+    , "partOfSet": true
+},
+
+{"_id": "bodhi-1"
+    , "folder": "photos/2017/03-March/2017-03-25/bodhi-1"
+    , "title": "Bodhi"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": true
+    , "set":"Bodhi"
+    , "partOfSet": true
+        , "setCount": "2"
+},
+
+{"_id": "bodhi-2"
+    , "folder": "photos/2017/03-March/2017-03-25/bodhi-2"
+    , "title": "Bodhi"
+    , "year": "2017"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Bodhi"
+    , "partOfSet": true
+},
+
+{"_id": "sarah-1"
+    , "folder": "photos/2017/02-February/2017-02-02/sarah-1"
+    , "title": "Sarah"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "deb"
+    , "folder": "photos/2017/02-February/2017-02-21/deb"
+    , "title": "Deb"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "dorothy-1"
+    , "folder": "photos/2017/01-January/2017-01-29/dorothy-1"
+    , "title": "Dorothy"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "jenny-2"
+    , "folder": "photos/2017/01-January/2017-01-02/jenny-2"
+    , "title": "Jenny"
+    , "year": "2017"
+    , "category": "Headshots"
+    , "viewOnCategories": false
+},
+
+{"_id": "steven-1"
+    , "folder": "photos/2017/01-January/2017-01-06/steven-1"
+    , "title": "Steven Muller"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Steven Muller"
+    , "partOfSet": true
+    , "setCount": "2"
+},
+
+{"_id": "steven-3"
+    , "folder": "photos/2017/01-January/2017-01-06/steven-3"
+    , "title": "Steven Muller"
+    , "year": "2017"
+    , "category": "Artists"
+    , "viewOnCategories": false
+    , "set":"Steven Muller"
+    , "partOfSet": true
+},
+
+{"_id": "dan-1"
+    , "folder": "photos/2017/01-January/2017-01-14/dan-1"
+    , "title": "Dan"
+    , "year": "2017"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+
+{"_id": "david-1"
+    , "folder": "photos/2016/12-December/2016-12-31/david-1"
+    , "title": "David"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+
+{"_id": "emma-1"
+    , "folder": "photos/2016/12-December/2016-12-25/emma-1"
+    , "title": "Emma"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "flower_3"
+    , "folder": "photos/2016/10-October/2016-10-22/flower_1"
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "wave_1"
+    , "folder": "photos/2016/11-November/2016-11-01/wave_1"
+    , "title": "Wave"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "seven"
+    , "folder": "photos/2017/01-January/2017-01-05/flower"
+    , "title": "Seven"
+    , "year": "2017"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "boldly"
+    , "folder": "photos/2017/01-January/2017-01-12/flower"
+    , "title": "Live Boldly, With Fire"
+    , "year": "2017"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{ "_id": "peppercorns-large-format-1"
+    , "folder": "photos/2016/08-August/2016-08-26/peppercorns-1"
+    , "title": "Peppercorns - 600 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "peppercorns-large-format-2"
+    , "folder": "photos/2016/08-August/2016-08-26/peppercorns-2"
+    , "title": "Peppercorns - 180 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "bob-large-format-1"
+    , "folder": "photos/2016/11-November/2016-11-09/bob-1"
+    , "title": "Bob - 300 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": true
+},
+
+{ "_id": "fiona-large-format-1"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-1"
+    , "title": "Fiona - 375 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "fiona-large-format-3"
+    , "folder": "photos/2017/03-March/2017-03-01/fiona-large-format-3"
+    , "title": "Fiona - 580 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "ross-large-format-1"
+    , "folder": "photos/2016/10-October/2016-10-12/ross"
+    , "title": "Ross - 430 Megapixels"
+    , "year": "2016"
+    , "category": "hide"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "bouquet-large-format-1"
+    , "folder": "photos/2016/09-September/2016-09-03/bouquet"
+    , "title": "Farm Bouquet - 330 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "watch-large-format-1"
+    , "folder": "photos/2016/09-September/2016-09-23/watch"
+    , "title": "Blancpain No 516 - 530 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "fly-large-format-2"
+    , "folder": "photos/2016/08-August/2016-08-20/fly-1"
+    , "title": "Fly - 120 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "fly-large-format-1"
+    , "folder": "photos/2016/08-August/2016-08-22/fly-1"
+    , "title": "Fly - 100 Megapixels"
+    , "year": "2016"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Jamaica_Pond"
+    , "folder": "photos/2016/08-August/2016-08-08/pond"
+    , "title": "Jamaica Pond"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Jamaica Plain"
+    , "partOfSet": true
+    , "setCount": "4"
+},
+
+{ "_id": "Boat_House"
+    , "folder": "photos/2016/08-August/2016-08-08/boathouse"
+    , "title": "Jamaica Pond Boat House"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Jamaica Plain"
+    , "partOfSet": true
+},
+
+{ "_id": "bus"
+    , "folder": "photos/2016/08-August/2016-08-08/bus"
+    , "title": "Bus Stop"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Jamaica Plain"
+    , "partOfSet": true
+},
+
+
+{"_id": "macro_1"
+    , "folder": "photos/2016/11-November/2016-11-01/macro_1"
+    , "title": "Close"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "daisy_1"
+    , "folder": "photos/2016/11-November/2016-11-16/daisy_1"
+    , "title": "Daisy"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "hope"
+    , "folder": "photos/2016/12-December/2016-12-05/flower"
+    , "title": "Hope"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "change"
+    , "folder": "photos/2016/12-December/2016-12-04/flower"
+    , "title": "Change"
+    , "year": "2016"
+    , "category": "Flowers"
+
+    , "viewOnCategories": false
+},
+
+{"_id": "purple_flower_1"
+    , "folder": "photos/2016/11-November/2016-11-26/purple_flower_1"
+    , "title": "Flower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "purple_flower_2"
+    , "folder": "photos/2016/11-November/2016-11-26/purple_flower_2"
+    , "title": "Flower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "purple_flower_3"
+    , "folder": "photos/2016/11-November/2016-11-26/purple_flower_3"
+    , "title": "Flower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "kinney"
+    , "folder": "photos/2016/11-November/2016-11-21/kinney"
+    , "title": "Kinney"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+{"_id": "flower_4"
+    , "folder": "photos/2016/10-October/2016-10-22/flower_2"
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+   
+{ "_id": "sunflower_6"
+    , "folder": "photos/2016/09-September/2016-09-11/sunflower_1"
+    , "title": "Sunflower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{ "_id": "simple_shell"
+    , "folder": "photos/2016/09-September/2016-09-28/shell"
+    , "title": "Simple Shell"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
+    , "setCount": "5"
+},
+
+{ "_id": "pencils"
+    , "folder": "photos/2016/10-October/2016-10-07/pencils"
+    , "title": "Pencils"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
+},
+
+{ "_id": "lily_1"
+    , "folder": "photos/2016/10-October/2016-10-29/lily_1"
+    , "title": "Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "yellow_flowers"
+    , "folder": "photos/2016/10-October/2016-10-15/flower"
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "blue_orchid"
+    , "folder": "photos/2016/10-October/2016-10-16/flower"
+    , "title": "Orchid"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "red_lily"
+    , "folder": "photos/2016/10-October/2016-10-31/flower_1"
+    , "title": "Red Calla Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "yellow_lily"
+    , "folder": "photos/2016/10-October/2016-10-31/flower_2"
+    , "title": "Yellow Calla Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "yellow_lily_2"
+    , "folder": "photos/2016/11-November/2016-11-04/flower"
+    , "title": "Yellow Calla Lily"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+ {"_id": "macro_2"
+    , "folder": "photos/2016/11-November/2016-11-01/macro_2"
+    , "title": "Closer"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{ "_id": "sunflower_7"
+    , "folder": "photos/2016/09-September/2016-09-11/sunflower_2"
+    , "title": "Sunflower"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{ "_id": "chill_flower_1"
+    , "folder": "photos/2016/10-October/2016-10-09/flower_1"
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "relaxed"
+    , "folder": "photos/2016/12-December/2016-12-12/flower"
+    , "title": "Relaxed"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{ "_id": "eye"
+    , "folder": "photos/2016/08-August/2016-08-29/eye"
+    , "title": "Sarah's Eye"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
+},
+
+{"_id": "rose_1"
+    , "folder": "photos/2016/11-November/2016-11-03/rose_1"
+    , "title": "Rose"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{ "_id": "Tavannes_2"
+    , "folder": "photos/2016/10-October/2016-10-05/watch"
+    , "title": "Tavannes Watch"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "type": "Stacked"
+    , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
+},
+
+{ "_id": "chill_flower_2"
+    , "folder": "photos/2016/10-October/2016-10-09/flower_2"
+    , "title": "Flowers"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{ "_id": "pencils_2"
+    , "folder": "photos/2016/10-October/2016-10-08/pencils"
+    , "title": "Pencils"
+    , "year": "2016"
+    , "category": "Assorted"
+    , "viewOnCategories": false
+    , "set":"Macro"
+    , "partOfSet": true
+},
+
+{"_id": "delicate_1"
+    , "folder": "photos/2016/11-November/2016-11-02/flower_1"
+    , "title": "Delicate"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+},
+
+{"_id": "kevin-1"
+    , "folder": "photos/2016/12-December/2016-12-21/kevin-1"
+    , "title": "Kevin"
+    , "year": "2016"
+    , "category": "Portraits"
+    , "viewOnCategories": false
+},
+
+
+
+{ "_id": "210-10feet-1"
+    , "folder": "photos/2017/03-March/2017-03-25/210-10-feet"
+    , "title": "Digitiler 210mm at 10 Feet - 450 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "50-10feet-1"
+    , "folder": "photos/2017/03-March/2017-03-25/50-10-feet"
+    , "title": "Nikon D810 50mm at 10 Feet - 36 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+
+{ "_id": "210-6feet-1"
+    , "folder": "photos/2017/03-March/2017-03-25/210-6-feet"
+    , "title": "Digitiler 210mm at 6 Feet - 470 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "50-6feet-1"
+    , "folder": "photos/2017/03-March/2017-03-25/50-6-feet"
+    , "title": "Nikon D810 50mm at 6 Feet - 36 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+
+{ "_id": "Constance-1"
+    , "folder": "photos/2017/03-March/2017-03-28/constance-1"
+    , "title": "Constance - 676 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Constance-2"
+    , "folder": "photos/2017/03-March/2017-03-28/constance-2"
+    , "title": "Constance - 700 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Constance-3"
+    , "folder": "photos/2017/03-March/2017-03-28/constance-3"
+    , "title": "Constance - 787 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Constance-4"
+    , "folder": "photos/2017/03-March/2017-03-28/constance-4"
+    , "title": "Constance - 36 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+
+{ "_id": "Thelma-1"
+    , "folder": "photos/2017/03-March/2017-03-28/thelma-1"
+    , "title": "Thelma - 690 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "Thelma-2"
+    , "folder": "photos/2017/03-March/2017-03-28/thelma-2"
+    , "title": "Thelma - 690 Megapixels"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+
+{ "_id": "India-1"
+    , "folder": "photos/2017/03-March/2017-03-31/India-1"
+    , "title": "India-1"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "India-2"
+    , "folder": "photos/2017/03-March/2017-03-31/India-2"
+    , "title": "India-2"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "India-3"
+    , "folder": "photos/2017/03-March/2017-03-31/India-3"
+    , "title": "India-3"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "India-4"
+    , "folder": "photos/2017/03-March/2017-05-06/lg-1"
+    , "title": "India-4"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "India-5"
+    , "folder": "photos/2017/03-March/2017-03-31/India-5"
+    , "title": "India-5"
+    , "year": "2017"
+    , "category": "Tests"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{ "_id": "sneakers-large-format-3"
+    , "folder": "photos/2017/02-February/2017-02-26/sneakers-3"
+    , "title": "Mizuno Wave Rider - 400 Megapixels"
+    , "year": "2017"
+    , "category": "Large Format"
+    , "digitiler": true
+    , "viewOnCategories": false
+},
+
+{"_id": "flower_lamp"
+    , "folder": "photos/2016/11-November/2016-11-27/flower"
+    , "title": "SunLight"
+    , "year": "2016"
+    , "category": "Flowers"
+    , "viewOnCategories": false
+}
+]}

@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"connectedstories.sublime-project",
+				"composer.json",
+				"composer.lock",
+				"installer"
+			],
+			"folder_exclude_patterns":
+			[
+				"bin",
+				"vendor"
+			],
+			"path": "."
+		}
+	]
+}

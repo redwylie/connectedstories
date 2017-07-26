@@ -1,0 +1,84 @@
+<!doctype html>
+
+<head>
+	{% include 'common/meta.html' %}
+	{% include 'common/styles.html' %}
+</head>
+<body class="page-category">
+	<?php include_once("analyticstracking.php") ?>
+	{% include 'common/nav.html' with {'foo': 'bar'} %}
+
+	<nav class="navbar navbar-inverse navbar-breadcrumbs navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+             	<ol class="breadcrumb">
+			  		<li><a href="index.php">Portfolio</a></li>
+			  		{% if view == 'Set' %}<li><a href="sets.php">Sets</a></li>{% endif %}
+			  		<li class="active">{{categoryTitle}}</li>
+				</ol> 
+            </div>
+        </div><!-- ./container -->
+    </nav>
+
+	<div class="container">
+
+		<div class="row">
+			<!-- <div class="col-sm-12">
+				<div class="page-header">
+					<h1>{{categoryTitle}}</h1>
+				</div>
+			</div> --><!-- .col -->
+
+			{% if categoryTitle == 'Large Format' %}
+			<br/>
+			<div class="col-sm-12">
+				<div class="well well-default">
+					 <p>These large format high resolution photos are taken with a Cambo 4x5 view camera with a custom made back in development by <a href="http://www.maxotics.com" target="_blank">Maxotics</a>. The digitiler back allows the capture of up to 56 images (a 7x8 grid across the film plane) with a full frame 35mm digital sensor. The 56 images are stitched together resulting in photographs with a native resoultion of 150-700 megapixels.  A 400 megapixel image could be printed at 90 inches by 50 inches at 300 DPI. The current challenges of this method include: The need for your subject to be still for 60 seconds, sensor dust, raw file sizes in the gigabytes, retouching these large files, and the web zoom viewer creation process modifying the colors somewhat. </p>
+				</div><!-- .well -->
+			</div><!-- .col -->
+			{% endif %}
+			
+		</div><!-- .row -->
+
+		<div class="row">
+
+			<div id="gallery" class="justified-gallery">
+				{% for image in images %}
+					{% if image.hide != true %}
+						{% if image.partOfSet == false %}
+						<a href="photo.php?photo={{image._id}}" class="link">
+							<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+							<div class="caption">{{ image.title }}</div>
+						</a>
+						{% endif %}
+						{% if image.setCount != null %}
+						<a href="set.php?set={{image.set}}&category={{image.category}}" class="link">
+							<img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+							<div class="setCount">{{ image.setCount }} <i class="fa fa-picture-o" aria-hidden="true"></i> </div>
+							<div class="caption">{{ image.set }}</div>
+						</a>
+						{% endif %}
+					{% endif %}
+				{% endfor %}
+			</div>
+
+		</div><!-- .row -->
+	</div><!-- .container -->
+
+	<br/>
+
+	{% include 'common/footer.html' %}
+	{% include 'common/scripts.html' %}
+	{% include 'common/tracking.html' %}
+
+	<script type="text/javascript">
+		$('#gallery').justifiedGallery({
+	    	rowHeight : 270,
+	    	lastRow : 'nojustify',
+	   		margins : 3,
+	   		captions : true
+		});
+	</script>
+
+</body>
+</html>
