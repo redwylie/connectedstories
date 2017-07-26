@@ -8,7 +8,7 @@
 	<?php include_once("analyticstracking.php") ?>
 	{% include 'common/nav.html' with {'foo': 'bar'} %}
 
-	<nav class="navbar navbar-inverse navbar-breadcrumbs navbar-static-top">
+	<!-- <nav class="navbar navbar-inverse navbar-breadcrumbs navbar-static-top">
         <div class="container">
             <div class="navbar-header">
              	<ol class="breadcrumb">
@@ -17,13 +17,19 @@
 			  		<li class="active">{{setTitle}}</li>
 				</ol> 
             </div>
-        </div><!-- ./container -->
-    </nav>
+        </div>
+    </nav> -->
+
+    <div class="jumbotron jumbotron-sets">
+		<div class="container">
+			<h1>{{setTitle}}</h1>
+ 		</div><!-- .container -->
+	</div><!-- .jumbotron -->
 
 	<div class="container">
 		<div class="row">
 
-			<div id="gallery" class="justified-gallery">
+			<!-- <div id="gallery" class="justified-gallery">
 				{% for image in images %}
 				{% if image.hide != true %}
 					<a href="photo.php?photo={{image._id}}" class="link">
@@ -32,7 +38,26 @@
 					</a>
 				{% endif %}
 				{% endfor %}
-			</div>
+			</div> -->
+			
+				{% for image in images %}
+				{% if image.hide != true %}
+					<div class="col-sm-4 col-md-4 col-card">
+						<a href="photo.php?photo={{image._id}}" class="link">
+
+							<div class="card {% if categoryTitle == 'Portraits' %}card-portrait{% endif %}" data-content="{{image.title}}" style="background-image: url('{{image.folder}}/thumbnail.jpg')">
+								<div class="inner">
+									<h1>{{ image.title }}</h1>
+								</div>
+							</div>
+
+							<!-- <img src="{{image.folder}}/thumbnail.jpg" class="img-responsive" />
+							<div class="caption">{{ image.title }}</div> -->
+						</a>
+					</div><!-- .card -->
+				{% endif %}
+				{% endfor %}
+			
 
 		</div><!-- .row -->
 	</div><!-- .container -->

@@ -27,7 +27,7 @@ foreach ($images->{'images'} as &$image) {
     };
 }
 
-$template = $twig->loadTemplate('categories.html');
+$template = $twig->loadTemplate('sets.html');
 echo $template->render(array(
     'categories' => $categories,
     'title' => 'Connected Stories',

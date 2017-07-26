@@ -38,9 +38,9 @@ foreach ($obj->{'images'} as &$image) {
     };
 }
 
-$urlCategory = 'category.php?category=' . $category;
-$urlPrevious = 'category.php?category=' . $category;
-$urlNext = 'category.php?category=' . $category;
+$urlCategory = 'set.php?set=' . $set .'&category=' . $category;
+$urlPrevious = 'set.php?set=' . $set .'&category=' . $category;
+$urlNext = 'set.php?set=' . $set .'&category=' . $category;
 
 $urlSet = null;
 if (!is_null($set)) {
