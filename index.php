@@ -30,7 +30,7 @@ foreach ($images->{'images'} as &$image) {
 $template = $twig->loadTemplate('categories.html');
 echo $template->render(array(
     'categories' => $categories,
-    'title' => 'Red Wylie - Photography Portfolio',
+    'title' => 'Connected Stories',
 	'description' => 'Headshots, Portraits, Flowers'
 ));
 
