@@ -1,6 +1,16 @@
 {"images": [
 
 
+{"_id": "street-8"
+    , "folder": "photos/2017/07-July/2017-07-26/street-1"
+    , "title": "July 26, 2017"
+    , "year": "2017"
+    , "category": "The Gentleman"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
 {"_id": "street-7"
     , "folder": "photos/2017/07-July/2017-07-25/street-1"
     , "title": "July 25, 2017"
