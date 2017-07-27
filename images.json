@@ -6,9 +6,10 @@
     , "caption":"The first photo I made of the Gentleman, before I knew it would be a series."
     , "year": "2017"
     , "category": "The Gentleman"
-    , "viewOnCategories": false
+    , "viewOnCategories": true
     , "set":"The Gentleman"
     , "partOfSet": true
+    , "setCount": "8"
     , "story" : true
 },
 
@@ -18,7 +19,7 @@
     , "caption":"I didn't intend to make this a series when I first photographed this gentleman last week. I thought perhaps he was taking a rest on the benches outside city hall. He was there again on Monday."
     , "year": "2017"
     , "category": "The Gentleman"
-    , "viewOnCategories": true
+    , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
 },
@@ -32,7 +33,6 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
-    , "setCount": "7"
 },
 
 {"_id": "street-4"

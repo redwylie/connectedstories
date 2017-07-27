@@ -3086,21 +3086,6 @@ a.link:hover {
     font-size: 90px;
     font-weight: 200; }
 
-.jumbotron.jumbotron-session {
-  height: 300px;
-  background-image: url("../../../../photos/2016/11-November/2016-11-01/macro_2/photo.jpg");
-  background-size: cover;
-  background-position: top;
-  background-color: #222;
-  margin-bottom: 25px; }
-  .jumbotron.jumbotron-session h1 {
-    color: #ffffff;
-    font-size: 70px;
-    font-weight: 200; }
-
-.jumbotron.jumbotron-rates {
-  background-image: url("../../../../photos/2016/11-November/2016-11-01/macro_1/photo.jpg"); }
-
 @media (max-width: 767px) {
   .jumbotron.jumbotron-categories {
     display: none; }
