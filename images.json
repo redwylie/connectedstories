@@ -1,10 +1,44 @@
 {"images": [
 
+{"_id": "street-1"
+    , "folder": "photos/2017/06-June/2017-06-22/street-1"
+    , "title": "June 22, 2017"
+    , "caption":"The first photo I made of the Gentleman, before I knew it would be a series."
+    , "year": "2017"
+    , "category": "The Gentleman"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+    , "story" : true
+},
 
-{"_id": "street-8"
-    , "folder": "photos/2017/07-July/2017-07-26/street-1"
-    , "title": "July 26, 2017"
-    , "caption":"The sun returned to the city today, but the Gentleman did not."
+{"_id": "street-2"
+    , "folder": "photos/2017/06-June/2017-06-26/street-1"
+    , "title": "June 26, 2017"
+    , "caption":"I didn't intend to make this a series when I first photographed this gentleman last week. I thought perhaps he was taking a rest on the benches outside city hall. He was there again on Monday."
+    , "year": "2017"
+    , "category": "The Gentleman"
+    , "viewOnCategories": true
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-3"
+    , "folder": "photos/2017/06-June/2017-06-27/street-1"
+    , "title": "June 27, 2017"
+    , "caption":"I found the gentleman again on the benches this morning at city hall plaza. He has been resting each morning."
+    , "year": "2017"
+    , "category": "The Gentleman"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+    , "setCount": "7"
+},
+
+{"_id": "street-4"
+    , "folder": "photos/2017/06-June/2017-06-28/street-1"
+    , "title": "June 28, 2017"
+    , "caption":"The gentleman was not present this morning."
     , "year": "2017"
     , "category": "The Gentleman"
     , "viewOnCategories": false
@@ -12,10 +46,10 @@
     , "partOfSet": true
 },
 
-{"_id": "street-7"
-    , "folder": "photos/2017/07-July/2017-07-25/street-1"
-    , "title": "July 25, 2017"
-    , "caption":"Nearly a month since last seeing the Gentleman, he is there today. Awake, watching me photograph him. Should I talk to him? Should I tell him about this series? Should I ask him if it is ok? I don't. I wait for the right moment, thrilled to see him, saddened that he is still on the streets."
+{"_id": "street-5"
+    , "folder": "photos/2017/06-June/2017-06-29/street-1"
+    , "title": "June 29, 2017"
+    , "caption":"I am surprised how the gentleman's absence these last few days has affected me. In my head I assumed he would be there every morning, and eventually I would have a conversation with him, and learn his story."
     , "year": "2017"
     , "category": "The Gentleman"
     , "viewOnCategories": false
@@ -35,10 +69,11 @@
     , "partOfSet": true
 },
 
-{"_id": "street-5"
-    , "folder": "photos/2017/06-June/2017-06-29/street-1"
-    , "title": "June 29, 2017"
-    , "caption":"I am surprised how the gentleman's absence these last few days has affected me. In my head I assumed he would be there every morning, and eventually I would have a conversation with him, and learn his story."
+
+{"_id": "street-7"
+    , "folder": "photos/2017/07-July/2017-07-25/street-1"
+    , "title": "July 25, 2017"
+    , "caption":"Nearly a month since last seeing the Gentleman, he is there today. Awake, watching me photograph him. Should I talk to him? Should I tell him about this series? Should I ask him if it is ok? I don't. I wait for the right moment, thrilled to see him, saddened that he is still on the streets."
     , "year": "2017"
     , "category": "The Gentleman"
     , "viewOnCategories": false
@@ -46,44 +81,11 @@
     , "partOfSet": true
 },
 
-{"_id": "street-4"
-    , "folder": "photos/2017/06-June/2017-06-28/street-1"
-    , "title": "June 28, 2017"
-    , "caption":"The gentleman was not present this morning."
-    , "year": "2017"
-    , "category": "The Gentleman"
-    , "viewOnCategories": false
-    , "set":"The Gentleman"
-    , "partOfSet": true
-},
 
-{"_id": "street-3"
-    , "folder": "photos/2017/06-June/2017-06-27/street-1"
-    , "title": "June 27, 2017"
-    , "caption":"I found the gentleman again on the benches this morning at city hall plaza. He has been resting each morning."
-    , "year": "2017"
-    , "category": "The Gentleman"
-    , "viewOnCategories": false
-    , "set":"The Gentleman"
-    , "partOfSet": true
-    , "setCount": "7"
-},
-
-{"_id": "street-2"
-    , "folder": "photos/2017/06-June/2017-06-26/street-1"
-    , "title": "June 26, 2017"
-    , "caption":"I didn't intend to make this a series when I first photographed this gentleman last week. I though perhaps he was taking a rest on the benches outside city hall. He was there again on Monday."
-    , "year": "2017"
-    , "category": "The Gentleman"
-    , "viewOnCategories": true
-    , "set":"The Gentleman"
-    , "partOfSet": true
-},
-
-{"_id": "street-1"
-    , "folder": "photos/2017/06-June/2017-06-22/street-1"
-    , "title": "June 22, 2017"
-    , "caption":"The first"
+{"_id": "street-8"
+    , "folder": "photos/2017/07-July/2017-07-26/street-1"
+    , "title": "July 26, 2017"
+    , "caption":"The sun returned to the city today, but the Gentleman did not."
     , "year": "2017"
     , "category": "The Gentleman"
     , "viewOnCategories": false
