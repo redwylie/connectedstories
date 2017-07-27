@@ -9,7 +9,7 @@
    	<?php include_once("analyticstracking.php") ?>
    	{% include 'common/nav.html'%}
 
-   	<nav class="navbar navbar-inverse navbar-breadcrumbs navbar-static-top" style="display: none;">
+   	<nav class="navbar navbar-inverse navbar-breadcrumbs navbar-static-top">
         <div class="container">
             <div class="navbar-header">
              	<ol class="breadcrumb">
@@ -46,8 +46,8 @@
 				</div><!-- .col -->
 			</a>
 			<div class="col-xs-12 col-sm-10 col-photo">
-				<img src="{{photo.folder}}/photo.jpg" class="full-image" style="max-width:80%; height:auto;" />
-				<h5 style="max-width:80%; padding-left: 10%"><a href="{{urlSet}}">{{set}}</a> : {{shortTitle}} : {{photo.caption}}</h5>
+				<img src="{{photo.folder}}/photo.jpg" class="full-image" style="max-width:100%; height:auto;" />
+				<h5><!-- <a href="{{urlSet}}">{{set}}</a> : --> {{shortTitle}} - {{photo.caption}}</h5>
 			</div><!-- .col -->
 			<a href="{{urlNext}}" class="col-nav hidden-xs">
 				<div class="col-xs-1">

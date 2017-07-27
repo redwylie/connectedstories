@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-left"
+			],
+			[
 				"border-bott",
 				"border-bottom-right-radius"
 			],
@@ -14,10 +18,6 @@
 			[
 				"mar",
 				"margin"
-			],
-			[
-				"padd",
-				"padding"
 			],
 			[
 				"fon",
@@ -332,11 +332,53 @@
 	"buffers":
 	[
 		{
+			"file": "views/photo.html",
+			"settings":
+			{
+				"buffer_size": 2662,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "images.json",
 			"settings":
 			{
-				"buffer_size": 1794,
+				"buffer_size": 3413,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "photo.php",
+			"settings":
+			{
+				"buffer_size": 2063,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "set.php",
+			"settings":
+			{
+				"buffer_size": 941,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/styles/redwylie/scss/_photo.scss",
+			"settings":
+			{
+				"buffer_size": 634,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "category.php",
+			"settings":
+			{
+				"buffer_size": 1096,
 				"line_ending": "Unix"
 			}
 		}
@@ -392,21 +434,36 @@
 	[
 		"/Users/redwylie/Sites/connectedstories",
 		"/Users/redwylie/Sites/connectedstories/assets",
-		"/Users/redwylie/Sites/connectedstories/assets/images",
-		"/Users/redwylie/Sites/connectedstories/assets/scripts",
 		"/Users/redwylie/Sites/connectedstories/assets/styles",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/css",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss",
+		"/Users/redwylie/Sites/connectedstories/photos",
+		"/Users/redwylie/Sites/connectedstories/photos/2017",
 		"/Users/redwylie/Sites/connectedstories/views",
 		"/Users/redwylie/Sites/connectedstories/views/common"
 	],
 	"file_history":
 	[
-		"/Users/redwylie/Sites/connectedstories/set.php",
-		"/Users/redwylie/Sites/connectedstories/views/common/footer.html",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/_mixins.scss",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/_jumbotron.scss",
 		"/Users/redwylie/Sites/connectedstories/views/common/nav.html",
-		"/Users/redwylie/Sites/connectedstories/index.php",
-		"/Users/redwylie/Sites/connectedstories/views/category.html",
+		"/Users/redwylie/Sites/connectedstories/views/set.html",
+		"/Users/redwylie/Sites/connectedstories/set.php",
+		"/Users/redwylie/Sites/connectedstories/photo.php",
+		"/Users/redwylie/Sites/connectedstories/views/photo.html",
+		"/Users/redwylie/Sites/connectedstories/about.php",
+		"/Users/redwylie/Sites/connectedstories/category.php",
+		"/Users/redwylie/Sites/connectedstories/views/sets.html",
+		"/Users/redwylie/Sites/connectedstories/views/common/card.html",
 		"/Users/redwylie/Sites/connectedstories/views/categories.html",
+		"/Users/redwylie/Sites/connectedstories/categories.php",
+		"/Users/redwylie/Sites/connectedstories/images.json",
+		"/Users/redwylie/Sites/connectedstories/index.php",
+		"/Users/redwylie/Sites/connectedstories/sets.php",
 		"/Users/redwylie/Sites/connectedstories/sftp-config.json",
+		"/Users/redwylie/Sites/connectedstories/views/common/footer.html",
+		"/Users/redwylie/Sites/connectedstories/views/category.html",
 		"/Users/redwylie/Sites/connectedstories/connectedstories.sublime-project",
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/scripts/mghlcs/common.js",
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/home.html",
@@ -515,19 +572,7 @@
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/app/study/views/investigator.html",
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/app/study/views/details.html",
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/app/study/views/snapshot.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/l10n/en-US/study.lang.json",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/styles/bootstrap/scss/_navbar.scss",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/app/study/views/compensation.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/topics.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/app/topics/views/topics.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/categories.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/styles/mghlcs/scss/_categories.scss",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/layouts/default/fragments/categories.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/app/topics/topicsApp.js",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/app/category/categoryApp.js",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/layouts/default/fragments/topics.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/styles/mghlcs/css/mghlcs.css.map",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/category.html"
+		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/l10n/en-US/study.lang.json"
 	],
 	"find":
 	{
@@ -584,6 +629,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"background-color: black;",
+			"<li><a href=\"index.php\">Portfolio</a></li>",
 			"Assorted",
 			"ribbon-wrapper",
 			"th:with",
@@ -709,9 +756,7 @@
 			"1366px by 764px",
 			"cloase",
 			".container-affiliate",
-			"bones_joints_and_muscles",
-			"diagnostic-tests-color",
-			"healthy"
+			"bones_joints_and_muscles"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -762,24 +807,56 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "images.json",
+					"file": "views/photo.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1794,
+						"buffer_size": 2662,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1482,
-								1486
+								1727,
+								1727
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "images.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1978,
+								1978
 							]
 						],
 						"settings":
@@ -792,10 +869,143 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "photo.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "set.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "assets/styles/redwylie/scss/_photo.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "category.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -818,11 +1028,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.856540697674,
 			1.0
 		],
 		"rows":
