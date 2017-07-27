@@ -91,5 +91,18 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
+},
+
+
+{"_id": "street-9"
+    , "folder": "photos/2017/07-July/2017-07-27/street-1"
+    , "title": "July 27, 2017"
+    , "caption":"Bundled up as the lower temps and rain swing through Boston again, the Gentleman is again resting on the bench today."
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
 }
+
 ]}
