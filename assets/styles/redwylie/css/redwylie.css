@@ -3089,17 +3089,21 @@ a.link:hover {
 @media (max-width: 767px) {
   .jumbotron.jumbotron-categories {
     display: none; }
-  .jumbotron.jumbotron-session {
+  .jumbotron.jumbotron-session,
+  .jumbotron.jumbotron-sets {
     height: 120px;
     padding-top: 10px;
     margin-bottom: 0px; }
-    .jumbotron.jumbotron-session h1 {
+    .jumbotron.jumbotron-session h1,
+    .jumbotron.jumbotron-sets h1 {
       font-size: 25px; } }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  .jumbotron.jumbotron-categories {
+  .jumbotron.jumbotron-categories,
+  .jumbotron.jumbotron-sets {
     height: 220px; }
-    .jumbotron.jumbotron-categories h1 {
+    .jumbotron.jumbotron-categories h1,
+    .jumbotron.jumbotron-sets h1 {
       font-size: 75px; }
   .jumbotron.jumbotron-session {
     height: 220px;
@@ -3108,9 +3112,11 @@ a.link:hover {
       font-size: 65px; } }
 
 @media (min-width: 992px) and (max-width: 1199px) {
-  .jumbotron.jumbotron-categories {
+  .jumbotron.jumbotron-categories,
+  .jumbotron.jumbotron-sets {
     height: 230px; }
-    .jumbotron.jumbotron-categories h1 {
+    .jumbotron.jumbotron-categories h1,
+    .jumbotron.jumbotron-sets h1 {
       font-size: 90px; } }
 
 .navbar-brand img {
