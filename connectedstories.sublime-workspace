@@ -358,10 +358,10 @@
 			}
 		},
 		{
-			"file": "assets/styles/redwylie/css/redwylie.css",
+			"file": "views/about.html",
 			"settings":
 			{
-				"buffer_size": 78599,
+				"buffer_size": 1194,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -935,19 +935,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "assets/styles/redwylie/css/redwylie.css",
-					"semi_transient": true,
+					"file": "views/about.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 78599,
+						"buffer_size": 1194,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								292,
+								292
 							]
 						],
 						"settings":
@@ -955,8 +955,8 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
