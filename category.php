@@ -45,7 +45,7 @@ echo $template->render(array(
 		'id' => $id,
 		'view' => 'Full',
 		'partOfSet' => $partOfSet,
-		'title' => 'Red Wylie Photography - '.$category,
+		'title' => 'Connected Stories - '.$category,
 		'description' => 'Headshots, Portraits, Flowers'
 	));
 

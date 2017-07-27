@@ -69,7 +69,7 @@ $template = $twig->loadTemplate('photo.html');
 echo $template->render(array(
 		'photo' => $photo,
 		'id' => $id,
-		'title' => 'Red Wylie Photography - ' .$photoTitle,
+		'title' => 'Connected Stories - ' .$photoTitle,
         'shortTitle' => $photoTitle,
         'photoIdPrevious' => $photoIdPrevious,
         'photoIdNext' => $photoIdNext,

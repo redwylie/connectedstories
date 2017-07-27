@@ -12,7 +12,7 @@ $twig = new Twig_Environment($loader, array(
 
 $template = $twig->loadTemplate('about.html');
 echo $template->render(array( 
-		'title' => 'The Photography of Mark (Red) Wylie'
+		'title' => 'Connected Stories'
 	));
 
 ?>
