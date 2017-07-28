@@ -23,6 +23,11 @@
     <div class="jumbotron jumbotron-sets">
 		<div class="container">
 			<h1>{{setTitle}}</h1>
+			{% for image in images %}
+				{% if image.storyIntro != null %}
+					<small>{{image.storyIntro|raw}}</small>
+				{% endif %}
+			{% endfor %}
  		</div><!-- .container -->
 	</div><!-- .jumbotron -->
 	{% for image in images %}
@@ -36,14 +41,28 @@
 						
 						<img src="{{image.folder}}/photo.jpg" class="img-responsive bordered" />
 						<br/>
-						<h5>{{ image.title }}</h5>
-						<p>{{image.caption}}</p>
+						{% if hideSetTitles == false %}
+							<h5>{{image.title}}</h5>
+						{% endif %}
+						{{image.caption|raw}}
 
 					</div><!-- .card -->
 				
 				</div><!-- .row -->
 			</div><!-- .container -->
 		</div><!-- .section -->
+
+		{% if image.copy != null %}
+			<div class="section">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-10 col-sm-offset-1">
+						{{image.copy|raw}}
+						</div><!-- .col -->
+					</div><!-- .row -->
+			</div><!-- .container -->
+		</div><!-- .section -->
+		{% endif %}
 
 	{% endif %}
 	{% endfor %}

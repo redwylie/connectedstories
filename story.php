@@ -14,6 +14,7 @@ $category = null;
 $category = $_GET['category'];
 $set = null;
 $set = $_GET['set'];
+$hideSetTitles = false;
 
 $file = file_get_contents('./images.json', true);
 
@@ -31,6 +32,9 @@ $setImages = array();
 foreach ($obj->{'images'} as &$image) {
     if ($image->set == $set) {
         array_push($setImages, $image);
+        if($image->hideTitles == true) {
+        	$hideSetTitles = true;
+        }
     };
 }
 
@@ -42,6 +46,7 @@ echo $template->render(array(
 		'setTitle' => $set,
 		'images' => $setImages,
 		'id' => $id,
+		'hideSetTitles' => $hideSetTitles,
 		'view' => 'Set',
 		'title' => 'Connected Stories - '.$set,
 		'description' => 'Headshots, Portraits, Flowers'

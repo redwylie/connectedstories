@@ -11,6 +11,7 @@
     , "partOfSet": true
     , "setCount": "8"
     , "story" : true
+    , "storyIntro" : "<p>Leaving the studio with my camera, the controlled space where I have been working almost exclusively for the past year, my daily commute becoming a vehicle for exploration - encountering a stranger.</p><p>The invisible strangers that we pass everyday, for years, decades, as our well worn route takes us past the same places, at the same time, to the same destination, every day.  Seldom paying attention, hardly noticing the changes, the faces, the life.  The things we turn our eyes away from. What would happen if you looked at one place every day, paused for just a few moments. </p>"
 },
 
 {"_id": "street-2"
@@ -33,6 +34,7 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
+    , "copy" : "<blockquote><p>An immense painful longing for a broader, more flexible, fuller, more coherent, more comprehensive account of what we human beings are, who we are and what this life is for.</p> <author>Saul Bellow</author></blockquote>"
 },
 
 {"_id": "street-4"
