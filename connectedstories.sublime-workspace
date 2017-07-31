@@ -332,6 +332,24 @@
 	"buffers":
 	[
 		{
+			"file": "assets/styles/connectedstories/scss/_jumbotron.scss",
+			"settings":
+			{
+				"buffer_size": 1316,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/styles/connectedstories/css/connectedstories.css",
+			"settings":
+			{
+				"buffer_size": 78833,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "assets/styles/connectedstories/scss/connectedstories.scss",
 			"settings":
 			{
@@ -350,10 +368,18 @@
 			}
 		},
 		{
-			"file": "assets/styles/connectedstories/css/connectedstories.css",
+			"file": "views/common/nav.html",
 			"settings":
 			{
-				"buffer_size": 78925,
+				"buffer_size": 1760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/common/scripts.html",
+			"settings":
+			{
+				"buffer_size": 285,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -413,6 +439,8 @@
 		"/Users/redwylie/Sites/connectedstories/assets/images",
 		"/Users/redwylie/Sites/connectedstories/assets/images/favicons",
 		"/Users/redwylie/Sites/connectedstories/assets/images/logos",
+		"/Users/redwylie/Sites/connectedstories/assets/scripts",
+		"/Users/redwylie/Sites/connectedstories/assets/scripts/connectedstories",
 		"/Users/redwylie/Sites/connectedstories/assets/styles",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css",
@@ -791,8 +819,75 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "assets/styles/connectedstories/scss/_jumbotron.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/styles/connectedstories/css/connectedstories.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 78833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		},
 		{
@@ -800,7 +895,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 0,
+					"buffer": 2,
 					"file": "assets/styles/connectedstories/scss/connectedstories.scss",
 					"semi_transient": false,
 					"settings":
@@ -827,11 +922,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 3,
 					"file": "views/common/styles.html",
 					"semi_transient": false,
 					"settings":
@@ -858,16 +953,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "assets/styles/connectedstories/css/connectedstories.css",
+					"buffer": 4,
+					"file": "views/common/nav.html",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 78925,
+						"buffer_size": 1760,
 						"regions":
 						{
 						},
@@ -883,15 +978,46 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/common/scripts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1377,7 +1503,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
