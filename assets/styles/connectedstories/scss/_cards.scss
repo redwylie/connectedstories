@@ -94,14 +94,6 @@ a.link:hover {
 }
 
 @media (max-width: $screen-xs-max) {
-   
-    .card-portrait {
-        height: 400px;
-    }
-
-     .card-portrait .inner {
-        margin-top: 200px;
-    }
 
     .category-link {
         .card .inner {
@@ -125,14 +117,6 @@ a.link:hover {
         }
     }
 
-    .card-portrait {
-        height: 276px;
-    }
-
-    .card-portrait .inner {
-        margin-top: 120px;
-    }
-
     .category-link {
         .card .inner {
             margin-top: 122px;
@@ -146,24 +130,9 @@ a.link:hover {
         height: 234px;
     }
 
-    .card-portrait {
-        height: 376px;
-    }
-
-    .card-portrait .inner {
-        margin-top: 180px;
-    }
 }
 
 @media (min-width: $screen-lg-min) {
-
-    .card-portrait {
-        height: 460px;
-    }
-
-    .card-portrait .inner {
-        margin-top: 220px;
-    }
 
     .category-link {
         .card .inner {

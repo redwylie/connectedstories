@@ -804,45 +804,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/styles\/connectedstories\/scss\/_layout.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/connectedstories\/scss\/_layout.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/styles\/connectedstories\/scss\/_photo.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/connectedstories\/scss\/_photo.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/styles\/connectedstories\/scss\/_responsive.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/connectedstories\/scss\/_responsive.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/assets\/styles\/connectedstories\/scss\/connectedstories.scss": {
 		"aP": 0,
 		"bl": 0,

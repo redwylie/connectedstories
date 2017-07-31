@@ -2993,145 +2993,6 @@ blockquote .small {
 blockquote author:before, blockquote small:before, blockquote .small:before {
   content: '\2014 \00A0'; }
 
-a.link:hover {
-  text-decoration: none; }
-
-@media (min-width: 768px) {
-  .card:hover {
-    border: 2px solid #52bbdc; }
-    .card:hover .inner {
-      display: block; }
-  .card:after {
-    content: "";
-    display: block;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    background: rgba(0, 0, 0, 0.5);
-    -moz-transition: all .4s;
-    -webkit-transition: all .4s;
-    transition: all .4s;
-    top: 0;
-    left: 0;
-    position: absolute; }
-  .card:hover:after {
-    opacity: 1; } }
-
-.card {
-  height: 288px;
-  width: 100%;
-  background-size: cover;
-  cursor: pointer;
-  background-position: center;
-  background-color: #e6e9ed;
-  margin-bottom: 0px;
-  border: 2px solid #ffffff;
-  text-align: center;
-  color: #ffffff;
-  position: relative; }
-  .card h1 {
-    font-size: 20px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-    line-height: 18px;
-    z-index: 1;
-    position: relative;
-    font-weight: 200; }
-  .card small {
-    z-index: 1;
-    position: relative; }
-  .card .inner {
-    margin-top: 120px;
-    display: none; }
-
-.category-link .card .inner {
-  height: 50px;
-  margin-top: 180px;
-  width: 100%;
-  display: block;
-  background: rgba(0, 0, 0, 0.3); }
-  .category-link .card .inner h1 {
-    position: relative;
-    top: 15px;
-    font-weight: 200; }
-
-@media (max-width: 767px) {
-  .card-portrait {
-    height: 400px; }
-  .card-portrait .inner {
-    margin-top: 200px; }
-  .category-link .card .inner {
-    margin-top: 235px; }
-  .card {
-    margin-bottom: 0px; } }
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .card {
-    height: 176px; }
-    .card .inner {
-      margin-top: 80px; }
-  .card-portrait {
-    height: 276px; }
-  .card-portrait .inner {
-    margin-top: 120px; }
-  .category-link .card .inner {
-    margin-top: 122px; } }
-
-@media (min-width: 992px) and (max-width: 1199px) {
-  .card {
-    height: 234px; }
-  .card-portrait {
-    height: 376px; }
-  .card-portrait .inner {
-    margin-top: 180px; } }
-
-@media (min-width: 1200px) {
-  .card-portrait {
-    height: 460px; }
-  .card-portrait .inner {
-    margin-top: 220px; }
-  .category-link .card .inner {
-    margin-top: 235px; } }
-
-.jumbotron.jumbotron-sets {
-  background-size: cover;
-  background-position: top;
-  background-color: #222;
-  margin-bottom: 25px;
-  padding-top: 0px;
-  padding-bottom: 20px; }
-  .jumbotron.jumbotron-sets h1 {
-    color: #ffffff;
-    font-size: 90px;
-    font-weight: 200; }
-  .jumbotron.jumbotron-sets small p {
-    color: #ffffff;
-    font-size: 16px; }
-
-@media (max-width: 767px) {
-  .jumbotron.jumbotron-categories {
-    display: none; }
-  .jumbotron.jumbotron-session,
-  .jumbotron.jumbotron-sets {
-    margin-bottom: 0px; }
-    .jumbotron.jumbotron-session h1,
-    .jumbotron.jumbotron-sets h1 {
-      font-size: 25px; } }
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .jumbotron.jumbotron-categories h1,
-  .jumbotron.jumbotron-sets h1 {
-    font-size: 75px; }
-  .jumbotron.jumbotron-session {
-    padding-top: 20px; }
-    .jumbotron.jumbotron-session h1 {
-      font-size: 65px; } }
-
-@media (min-width: 992px) and (max-width: 1199px) {
-  .jumbotron.jumbotron-categories h1,
-  .jumbotron.jumbotron-sets h1 {
-    font-size: 90px; } }
-
 .navbar-brand img {
   max-height: 105px; }
 
@@ -3197,6 +3058,44 @@ footer p {
       font-size: 10px;
       padding: 10px 6px 0 6px; } }
 
+.navbar-breadcrumbs {
+  height: 36px;
+  max-height: 36px;
+  min-height: 36px; }
+  .navbar-breadcrumbs .breadcrumb {
+    padding-left: 0px;
+    margin-bottom: 0px;
+    background-color: transparent; }
+
+.page-photo .navbar-breadcrumbs,
+.page-category .navbar-breadcrumbs,
+.page-set .navbar-breadcrumbs {
+  height: 36px;
+  max-height: 36px;
+  min-height: 36px; }
+
+@media (max-width: 767px) {
+  .navbar-breadcrumbs .breadcrumb {
+    padding-left: 15px; } }
+
+.section {
+  padding-top: 80px;
+  padding-bottom: 80px; }
+
+.section:nth-child(odd) {
+  background: #ffffff; }
+
+.section:nth-child(even) {
+  background: #e6e9ed; }
+
+.first-section {
+  padding-top: 117px; }
+
+@media (max-width: 767px) {
+  .section {
+    padding-top: 30px;
+    padding-bottom: 30px; } }
+
 .session p {
   font-size: 16px;
   padding-bottom: 20px; }
@@ -3222,7 +3121,7 @@ footer p {
     padding-right: 1px; } }
 
 .page-photo {
-  background-color: white;
+  background-color: #ffffff;
   width: 100%;
   height: 100%; }
 
@@ -3265,40 +3164,125 @@ footer p {
 .bordered {
   border: 1px solid #ccc; }
 
-.navbar-breadcrumbs {
-  height: 36px;
-  max-height: 36px;
-  min-height: 36px; }
-  .navbar-breadcrumbs .breadcrumb {
-    padding-left: 0px;
+a.link:hover {
+  text-decoration: none; }
+
+@media (min-width: 768px) {
+  .card:hover {
+    border: 2px solid #52bbdc; }
+    .card:hover .inner {
+      display: block; }
+  .card:after {
+    content: "";
+    display: block;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0.5);
+    -moz-transition: all .4s;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+    top: 0;
+    left: 0;
+    position: absolute; }
+  .card:hover:after {
+    opacity: 1; } }
+
+.card {
+  height: 288px;
+  width: 100%;
+  background-size: cover;
+  cursor: pointer;
+  background-position: center;
+  background-color: #e6e9ed;
+  margin-bottom: 0px;
+  border: 2px solid #ffffff;
+  text-align: center;
+  color: #ffffff;
+  position: relative; }
+  .card h1 {
+    font-size: 20px;
     margin-bottom: 0px;
-    background-color: transparent; }
+    padding-bottom: 0px;
+    line-height: 18px;
+    z-index: 1;
+    position: relative;
+    font-weight: 200; }
+  .card small {
+    z-index: 1;
+    position: relative; }
+  .card .inner {
+    margin-top: 120px;
+    display: none; }
 
-.page-photo .navbar-breadcrumbs,
-.page-category .navbar-breadcrumbs,
-.page-set .navbar-breadcrumbs {
-  height: 36px;
-  max-height: 36px;
-  min-height: 36px; }
-
-@media (max-width: 767px) {
-  .navbar-breadcrumbs .breadcrumb {
-    padding-left: 15px; } }
-
-.section {
-  padding-top: 80px;
-  padding-bottom: 80px; }
-
-.section:nth-child(odd) {
-  background: #ffffff; }
-
-.section:nth-child(even) {
-  background: #e6e9ed; }
-
-.first-section {
-  padding-top: 117px; }
+.category-link .card .inner {
+  height: 50px;
+  margin-top: 180px;
+  width: 100%;
+  display: block;
+  background: rgba(0, 0, 0, 0.3); }
+  .category-link .card .inner h1 {
+    position: relative;
+    top: 15px;
+    font-weight: 200; }
 
 @media (max-width: 767px) {
-  .section {
-    padding-top: 30px;
-    padding-bottom: 30px; } }
+  .category-link .card .inner {
+    margin-top: 235px; }
+  .card {
+    margin-bottom: 0px; } }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .card {
+    height: 176px; }
+    .card .inner {
+      margin-top: 80px; }
+  .category-link .card .inner {
+    margin-top: 122px; } }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .card {
+    height: 234px; } }
+
+@media (min-width: 1200px) {
+  .category-link .card .inner {
+    margin-top: 235px; } }
+
+.jumbotron.jumbotron-sets {
+  background-size: cover;
+  background-position: top;
+  background-color: #222;
+  margin-bottom: 25px;
+  padding-top: 0px;
+  padding-bottom: 20px; }
+  .jumbotron.jumbotron-sets h1 {
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: 200; }
+  .jumbotron.jumbotron-sets small p {
+    color: #ffffff;
+    font-size: 16px; }
+
+@media (max-width: 767px) {
+  .jumbotron.jumbotron-categories {
+    display: none; }
+  .jumbotron.jumbotron-session,
+  .jumbotron.jumbotron-sets {
+    margin-bottom: 0px; }
+    .jumbotron.jumbotron-session h1,
+    .jumbotron.jumbotron-sets h1 {
+      font-size: 25px; } }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .jumbotron.jumbotron-categories h1,
+  .jumbotron.jumbotron-sets h1 {
+    font-size: 75px; }
+  .jumbotron.jumbotron-session {
+    padding-top: 20px; }
+    .jumbotron.jumbotron-session h1 {
+      font-size: 65px; } }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .jumbotron.jumbotron-categories h1,
+  .jumbotron.jumbotron-sets h1 {
+    font-size: 90px; } }
