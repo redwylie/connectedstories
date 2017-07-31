@@ -30,7 +30,7 @@ foreach ($images->{'images'} as &$image) {
     };
 }
 
-$template = $twig->loadTemplate('sets.html');
+$template = $twig->loadTemplate('index.html');
 echo $template->render(array(
     'categories' => $categories,
     'title' => 'Connected Stories',
