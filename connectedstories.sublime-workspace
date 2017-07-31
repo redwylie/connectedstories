@@ -332,10 +332,28 @@
 	"buffers":
 	[
 		{
-			"file": "assets/styles/redwylie/scss/redwylie.scss",
+			"file": "assets/styles/connectedstories/scss/connectedstories.scss",
 			"settings":
 			{
 				"buffer_size": 3095,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/common/styles.html",
+			"settings":
+			{
+				"buffer_size": 302,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/styles/connectedstories/css/connectedstories.css",
+			"settings":
+			{
+				"buffer_size": 78925,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -396,9 +414,9 @@
 		"/Users/redwylie/Sites/connectedstories/assets/images/favicons",
 		"/Users/redwylie/Sites/connectedstories/assets/images/logos",
 		"/Users/redwylie/Sites/connectedstories/assets/styles",
-		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie",
-		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/css",
-		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss",
 		"/Users/redwylie/Sites/connectedstories/photos",
 		"/Users/redwylie/Sites/connectedstories/photos/2017",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/07-July",
@@ -409,6 +427,7 @@
 	],
 	"file_history":
 	[
+		"/Users/redwylie/Sites/connectedstories/views/common/nav.html",
 		"/Users/redwylie/Sites/connectedstories/images.json",
 		"/Users/redwylie/Sites/connectedstories/index.php",
 		"/Users/redwylie/Sites/connectedstories/views/sets.html",
@@ -420,7 +439,6 @@
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/_photo.scss",
 		"/Users/redwylie/Sites/connectedstories/views/category.html",
 		"/Users/redwylie/Sites/connectedstories/photo.php",
-		"/Users/redwylie/Sites/connectedstories/views/common/nav.html",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/_section.scss",
 		"/Users/redwylie/Sites/connectedstories/views/story.html",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/redwylie.scss",
@@ -593,6 +611,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"redwylie",
 			"../../bootstrap",
 			"categoryTitle",
 			"setcount",
@@ -719,8 +738,7 @@
 			"principal_investigator",
 			"navbar-search",
 			"prp-keyword-search-widget",
-			"may be offered",
-			"1366px by 764px"
+			"may be offered"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -778,12 +796,12 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "assets/styles/redwylie/scss/redwylie.scss",
+					"file": "assets/styles/connectedstories/scss/connectedstories.scss",
 					"semi_transient": false,
 					"settings":
 					{
@@ -794,8 +812,8 @@
 						"selection":
 						[
 							[
-								80,
-								38
+								3076,
+								3076
 							]
 						],
 						"settings":
@@ -809,7 +827,71 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/common/styles.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/styles/connectedstories/css/connectedstories.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 78925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1295,7 +1377,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
