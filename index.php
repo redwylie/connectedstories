@@ -18,6 +18,7 @@ $file = file_get_contents('./images.json', true);
 $json = $file;
 
 $story = null;
+$setYear = null;
 
 $images = json_decode($json);
 
@@ -27,6 +28,7 @@ foreach ($images->{'images'} as &$image) {
     if ($image->viewOnCategories) {
         array_push($categories, $image);
         $story = $images->story;
+        $setYear = $image->year;
     };
 }
 
@@ -35,6 +37,7 @@ echo $template->render(array(
     'categories' => $categories,
     'title' => 'Connected Stories',
     'story' => $story,
+    'setYear' => $setYear,
 	'description' => 'Photo Essays and Projects'
 ));
 

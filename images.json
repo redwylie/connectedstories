@@ -47,6 +47,7 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
+
 },
 
 {"_id": "street-5"
@@ -58,6 +59,7 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
+    , "copy": "<h3>Vacation and a back injury kept me away from my daily commute and the benches for nearly 4 weeks. I often thought about The Gentleman while I was away.</h3><h3> Upon returning I found some subtle changes.</h3>"
 },
 
 

@@ -10,7 +10,7 @@
 
     <div class="jumbotron jumbotron-sets">
 		<div class="container">
-			<h1>{{setTitle}}</h1>
+			<h1>{{setTitle}} <small class="pull-right">{{setYear}}</small></h1>
 			{% for image in images %}
 				{% if image.storyIntro != null %}
 					{{image.storyIntro|raw}}
@@ -45,7 +45,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-1">
-						{{image.copy|raw}}
+							{{image.copy|raw}}
 						</div><!-- .col -->
 					</div><!-- .row -->
 			</div><!-- .container -->

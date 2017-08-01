@@ -3540,3 +3540,11 @@ a.link:hover {
 @media (min-width: 768px) and (max-width: 991px) {
   .jumbotron h1 {
     font-size: 75px; } }
+
+h3 {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 300; }
+
+h1 small {
+  color: #656d78; }

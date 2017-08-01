@@ -15,6 +15,7 @@ $category = $_GET['category'];
 $set = null;
 $set = $_GET['set'];
 $hideSetTitles = false;
+$setYear = null;
 
 $file = file_get_contents('./images.json', true);
 
@@ -32,6 +33,7 @@ $setImages = array();
 foreach ($obj->{'images'} as &$image) {
     if ($image->set == $set) {
         array_push($setImages, $image);
+        $setYear = $image->year;
         if($image->hideTitles == true) {
         	$hideSetTitles = true;
         }
@@ -44,6 +46,7 @@ $template = $twig->loadTemplate('story.html');
 echo $template->render(array(
 		'categoryTitle' => $category,
 		'setTitle' => $set,
+		'setYear' => $setYear,
 		'images' => $setImages,
 		'id' => $id,
 		'hideSetTitles' => $hideSetTitles,

@@ -22,7 +22,7 @@
 						<div class="panel panel-default card" data-content="{{image.title}}">
 							<div class="panel-heading" style="background-image: url('{{category.folder}}/thumbnail.jpg')" ></div>
 							<div class="panel-body">
-								<h1>{{ category.set }}</h1>
+								<h1>{{ category.set }} <small class="pull-right">{{setYear}}</small></h1>
 								<p class="visible-xs visible-md">{{ category.storyCaption|length > 110 ? category.storyCaption|striptags|slice(0, 110) ~ '...' : category.storyCaption|striptags  }}</p>
 								<p class="visible-sm">{{ category.storyCaption|length > 72 ? category.storyCaption|striptags|slice(0, 72) ~ '...' : category.storyCaption|striptags  }}</p>
 								<p class="visible-lg">{{ category.storyCaption|length > 140 ? category.storyCaption|striptags|slice(0, 140) ~ '...' : category.storyCaption|striptags  }}</p>

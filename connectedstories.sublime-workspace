@@ -4,8 +4,12 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
 				"padd",
-				"padding-left"
+				"padding-bottom"
 			],
 			[
 				"border-bott",
@@ -38,10 +42,6 @@
 			[
 				"pa",
 				"padding-bottom"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"jum",
@@ -335,16 +335,16 @@
 			"file": "views/index.html",
 			"settings":
 			{
-				"buffer_size": 714,
+				"buffer_size": 1627,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "sftp-config.json",
+			"file": "story.php",
 			"settings":
 			{
-				"buffer_size": 1370,
+				"buffer_size": 1158,
 				"line_ending": "Unix"
 			}
 		},
@@ -352,7 +352,16 @@
 			"file": "images.json",
 			"settings":
 			{
-				"buffer_size": 5868,
+				"buffer_size": 6503,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 859,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -409,38 +418,47 @@
 	[
 		"/Users/redwylie/Sites/connectedstories",
 		"/Users/redwylie/Sites/connectedstories/assets",
+		"/Users/redwylie/Sites/connectedstories/assets/styles",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/variables",
 		"/Users/redwylie/Sites/connectedstories/photos",
-		"/Users/redwylie/Sites/connectedstories/views"
+		"/Users/redwylie/Sites/connectedstories/views",
+		"/Users/redwylie/Sites/connectedstories/views/common"
 	],
 	"file_history":
 	[
-		"/Users/redwylie/Sites/connectedstories/category.php",
-		"/Users/redwylie/Sites/connectedstories/index.php",
-		"/Users/redwylie/Sites/connectedstories/views/index.html",
-		"/Users/redwylie/Sites/connectedstories/views/sets.html",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/connectedstories.scss",
+		"/Users/redwylie/Sites/connectedstories/photo.php",
+		"/Users/redwylie/Sites/connectedstories/views/story.html",
+		"/Users/redwylie/Sites/connectedstories/story.php",
+		"/Users/redwylie/Sites/connectedstories/views/index.html",
+		"/Users/redwylie/Sites/connectedstories/index.php",
+		"/Users/redwylie/Sites/connectedstories/views/common/meta.html",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_jumbotron.scss",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/variables/_colors.scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_cards.scss",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css/connectedstories.css",
+		"/Users/redwylie/Sites/connectedstories/views/common/card.html",
+		"/Users/redwylie/Sites/humansofjp/views/index.html",
+		"/Users/redwylie/Sites/connectedstories/category.php",
+		"/Users/redwylie/Sites/connectedstories/views/sets.html",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/variables/_variables.scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_photo.scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_layout.scss",
 		"/Users/redwylie/Sites/connectedstories/views/photo.html",
-		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/variables/_colors.scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_mixins.scss",
 		"/Users/redwylie/Sites/connectedstories/views/common/scripts.html",
 		"/Users/redwylie/Sites/connectedstories/views/common/styles.html",
-		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_jumbotron.scss",
 		"/Users/redwylie/Sites/connectedstories/views/common/nav.html",
 		"/Users/redwylie/Sites/connectedstories/images.json",
-		"/Users/redwylie/Sites/connectedstories/views/common/card.html",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/_jumbotron.scss",
 		"/Users/redwylie/Sites/connectedstories/views/about.html",
 		"/Users/redwylie/Sites/connectedstories/views/common/tracking.html",
-		"/Users/redwylie/Sites/connectedstories/story.php",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/_photo.scss",
 		"/Users/redwylie/Sites/connectedstories/views/category.html",
-		"/Users/redwylie/Sites/connectedstories/photo.php",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/_section.scss",
-		"/Users/redwylie/Sites/connectedstories/views/story.html",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/redwylie.scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/css/redwylie.css",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/redwylie/scss/_mixins.scss",
@@ -538,10 +556,7 @@
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/layouts/embed/fragments/style.html",
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/styles/mghlcs/scss/_study-wc.scss",
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/l10n/es/search.lang.json",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/l10n/en-US/search.lang.json",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/app/admin/views/adminApp.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/styles/mghlcs/scss/prp-wc/_layout.scss",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/modules/searchModule/views/searchModule.html"
+		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/l10n/en-US/search.lang.json"
 	],
 	"find":
 	{
@@ -598,6 +613,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"storyIntro",
+			"image",
 			"redwylie",
 			"../../bootstrap",
 			"categoryTitle",
@@ -723,9 +740,7 @@
 			"manageStudies",
 			"data",
 			"principal_investigator",
-			"navbar-search",
-			"prp-keyword-search-widget",
-			"may be offered"
+			"navbar-search"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -778,7 +793,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -787,15 +802,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 714,
+						"buffer_size": 1627,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								578,
-								578
+								1572,
+								1572
 							]
 						],
 						"settings":
@@ -810,24 +825,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "sftp-config.json",
-					"semi_transient": true,
+					"file": "story.php",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1370,
+						"buffer_size": 1158,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1158,
+								1158
 							]
 						],
 						"settings":
@@ -835,32 +850,36 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 2,
 					"file": "images.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5868,
+						"buffer_size": 6503,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								376,
-								376
+								3305,
+								3530
 							]
 						],
 						"settings":
@@ -877,14 +896,42 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -916,7 +963,7 @@
 		"cols":
 		[
 			0.0,
-			0.701064826108,
+			0.45500373186,
 			1.0
 		],
 		"rows":
@@ -1368,7 +1415,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
