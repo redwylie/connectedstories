@@ -8,7 +8,12 @@
 				"composer.json",
 				"composer.lock",
 				"installer",
-				"assets/styles/redwylie/config.codekit3"
+				"assets/styles/redwylie/config.codekit3",
+				"config.codekit3",
+				".gitignore",
+				"favicon.ico",
+				"analyticstracking.php",
+				"sftp-config.json"
 			],
 			"folder_exclude_patterns":
 			[

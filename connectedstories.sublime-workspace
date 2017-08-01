@@ -341,10 +341,18 @@
 			}
 		},
 		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1370,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "images.json",
 			"settings":
 			{
-				"buffer_size": 5867,
+				"buffer_size": 5868,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -402,10 +410,7 @@
 		"/Users/redwylie/Sites/connectedstories",
 		"/Users/redwylie/Sites/connectedstories/assets",
 		"/Users/redwylie/Sites/connectedstories/photos",
-		"/Users/redwylie/Sites/connectedstories/photos/2017",
-		"/Users/redwylie/Sites/connectedstories/photos/2017/07-July",
-		"/Users/redwylie/Sites/connectedstories/views",
-		"/Users/redwylie/Sites/connectedstories/views/common"
+		"/Users/redwylie/Sites/connectedstories/views"
 	],
 	"file_history":
 	[
@@ -810,19 +815,52 @@
 				},
 				{
 					"buffer": 1,
-					"file": "images.json",
-					"semi_transient": false,
+					"file": "sftp-config.json",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 5867,
+						"buffer_size": 1370,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5716,
-								5400
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "images.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
 							]
 						],
 						"settings":
@@ -836,10 +874,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 589.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
