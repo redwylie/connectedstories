@@ -105,6 +105,29 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
+},
+
+{"_id": "street-10"
+    , "folder": "photos/2017/07-July/2017-07-31/street-1"
+    , "title": "July 31, 2017"
+    , "caption":"The carnival that was in town for the weekend is all but packed up. The sun is shining brightly. The woman with the cart is asking for help with a loose wheel. Foam food containers are scattered around the benches. The Gentleman is not present today."
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-11"
+    , "folder": "photos/2017/08-August/2017-08-01/street-1"
+    , "title": "August 1, 2017"
+    , "caption":"Another sun filled day, the heat is returning to the city. Most of the litter from the weekend is still under the benches. A few rides from the carnival are still sitting on the plaza. The sound of a pressure washer fills the area as the cement is being cleaned. The Gentleman is not present today."
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
 }
+
 
 ]}
