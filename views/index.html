@@ -8,7 +8,7 @@
 	<?php include_once("analyticstracking.php") ?>
 	{% include 'common/nav.html' with {'foo': 'bar'} %}
 
-	<div class="jumbotron jumbotron-sets">
+	<div class="jumbotron">
 		<div class="container">
 			<h1>Photo Essays and Projects</h1>
  		</div><!-- .container -->
@@ -16,11 +16,21 @@
 
 	<div class="container">
 		<div class="row">
-
 			{% for category in categories %}
-				{% include 'common/card.html' with {'view':'sets'} %}
+				<div class="col-sm-4">
+					<a href="story.php?set={{category.set}}" class="link">
+						<div class="panel panel-default card" data-content="{{image.title}}">
+							<div class="panel-heading" style="background-image: url('{{category.folder}}/thumbnail.jpg')" ></div>
+							<div class="panel-body">
+								<h1>{{ category.set }}</h1>
+								<p class="visible-xs visible-md">{{ category.storyCaption|length > 110 ? category.storyCaption|striptags|slice(0, 110) ~ '...' : category.storyCaption|striptags  }}</p>
+								<p class="visible-sm">{{ category.storyCaption|length > 72 ? category.storyCaption|striptags|slice(0, 72) ~ '...' : category.storyCaption|striptags  }}</p>
+								<p class="visible-lg">{{ category.storyCaption|length > 140 ? category.storyCaption|striptags|slice(0, 140) ~ '...' : category.storyCaption|striptags  }}</p>
+							</div><!-- .panel-body -->
+						</div><!-- .card -->
+					</a>
+				</div><!-- .col -->
 			{% endfor %}
-
 		</div><!-- .row -->
 	</div><!-- .container -->
 

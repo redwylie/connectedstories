@@ -35,15 +35,7 @@ echo $template->render(array(
     'categories' => $categories,
     'title' => 'Connected Stories',
     'story' => $story,
-	'description' => 'Headshots, Portraits, Flowers'
+	'description' => 'Photo Essays and Projects'
 ));
-
-// $template = $twig->loadTemplate('index.html');
-// echo $template->render(array(
-//     'images' => $images->{'images'}
-// ));
-
-
-//include ("cards.php")
 
 ?>

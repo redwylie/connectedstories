@@ -3496,120 +3496,47 @@ a.link:hover {
 
 @media (min-width: 768px) {
   .card:hover {
-    border: 2px solid #52bbdc; }
-    .card:hover .inner {
-      display: block; }
-  .card:after {
-    content: "";
-    display: block;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    background: rgba(0, 0, 0, 0.5);
-    -moz-transition: all .4s;
-    -webkit-transition: all .4s;
-    transition: all .4s;
-    top: 0;
-    left: 0;
-    position: absolute; }
-  .card:hover:after {
-    opacity: 1; } }
+    border: 1px solid #00c0f3; } }
 
 .card {
-  height: 288px;
+  height: 315px;
   width: 100%;
-  background-size: cover;
   cursor: pointer;
-  background-position: center;
-  background-color: #e6e9ed;
-  margin-bottom: 0px;
-  border: 2px solid #ffffff;
-  text-align: center;
-  color: #ffffff;
-  position: relative; }
+  border: 1px solid #ccd1d9;
+  margin-bottom: 30px;
+  overflow: hidden;
+  color: #434a54; }
+  .card .panel-heading {
+    height: 200px;
+    background-size: cover;
+    cursor: pointer;
+    background-position: center; }
   .card h1 {
-    font-size: 20px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-    line-height: 18px;
-    z-index: 1;
-    position: relative;
-    font-weight: 200; }
-  .card small {
-    z-index: 1;
-    position: relative; }
-  .card .inner {
-    margin-top: 120px;
-    display: none; }
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 1px; }
 
-.category-link .card .inner {
-  height: 50px;
-  margin-top: 180px;
-  width: 100%;
-  display: block;
-  background: rgba(0, 0, 0, 0.3); }
-  .category-link .card .inner h1 {
-    position: relative;
-    top: 15px;
-    font-weight: 200; }
-
-@media (max-width: 767px) {
-  .category-link .card .inner {
-    margin-top: 235px; }
-  .card {
-    margin-bottom: 0px; } }
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .card {
-    height: 176px; }
-    .card .inner {
-      margin-top: 80px; }
-  .category-link .card .inner {
-    margin-top: 122px; } }
-
-@media (min-width: 992px) and (max-width: 1199px) {
-  .card {
-    height: 234px; } }
-
-@media (min-width: 1200px) {
-  .category-link .card .inner {
-    margin-top: 235px; } }
-
-.jumbotron.jumbotron-sets {
-  background-size: cover;
-  background-position: top;
+.jumbotron {
   background-color: #222;
   margin-bottom: 25px;
-  padding-top: 0px;
-  padding-bottom: 20px; }
-  .jumbotron.jumbotron-sets h1 {
+  padding-top: 10px;
+  padding-bottom: 30px; }
+  .jumbotron h1 {
     color: #ffffff;
     font-size: 90px;
     font-weight: 200; }
-  .jumbotron.jumbotron-sets small p {
-    color: #ffffff;
-    font-size: 16px; }
+  .jumbotron p {
+    color: #ffffff; }
+
+.jumbotron.jumbotron-sets {
+  background-color: #434a54; }
 
 @media (max-width: 767px) {
-  .jumbotron.jumbotron-categories {
-    display: none; }
-  .jumbotron.jumbotron-session,
-  .jumbotron.jumbotron-sets {
+  .jumbotron {
     margin-bottom: 0px; }
-    .jumbotron.jumbotron-session h1,
-    .jumbotron.jumbotron-sets h1 {
+    .jumbotron h1 {
       font-size: 25px; } }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  .jumbotron.jumbotron-categories h1,
-  .jumbotron.jumbotron-sets h1 {
-    font-size: 75px; }
-  .jumbotron.jumbotron-session {
-    padding-top: 20px; }
-    .jumbotron.jumbotron-session h1 {
-      font-size: 65px; } }
-
-@media (min-width: 992px) and (max-width: 1199px) {
-  .jumbotron.jumbotron-categories h1,
-  .jumbotron.jumbotron-sets h1 {
-    font-size: 90px; } }
+  .jumbotron h1 {
+    font-size: 75px; } }

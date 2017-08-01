@@ -8,24 +8,12 @@
 	<?php include_once("analyticstracking.php") ?>
 	{% include 'common/nav.html' with {'foo': 'bar'} %}
 
-	<!-- <nav class="navbar navbar-inverse navbar-breadcrumbs navbar-static-top">
-        <div class="container">
-            <div class="navbar-header">
-             	<ol class="breadcrumb">
-			  		<li><a href="index.php">Home</a></li>
-			  		<li><a href="category.php?category={{categoryTitle}}">{{categoryTitle}}</a></li>
-			  		<li class="active">{{setTitle}}</li>
-				</ol> 
-            </div>
-        </div>
-    </nav> -->
-
     <div class="jumbotron jumbotron-sets">
 		<div class="container">
 			<h1>{{setTitle}}</h1>
 			{% for image in images %}
 				{% if image.storyIntro != null %}
-					<small>{{image.storyIntro|raw}}</small>
+					{{image.storyIntro|raw}}
 				{% endif %}
 			{% endfor %}
  		</div><!-- .container -->
@@ -66,7 +54,6 @@
 
 	{% endif %}
 	{% endfor %}
-
 
 	{% include 'common/footer.html' %}
 	{% include 'common/scripts.html' %}

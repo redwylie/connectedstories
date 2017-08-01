@@ -49,7 +49,7 @@ echo $template->render(array(
 		'hideSetTitles' => $hideSetTitles,
 		'view' => 'Set',
 		'title' => 'Connected Stories - '.$set,
-		'description' => 'Headshots, Portraits, Flowers'
+		'description' => 'Photo Essays and Projects'
 	));
 
 ?>
