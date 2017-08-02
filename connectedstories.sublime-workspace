@@ -435,6 +435,11 @@
 		"/Users/redwylie/Sites/connectedstories/photos/2017",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/07-July",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/07-July/2017-07-07",
+		"/Users/redwylie/Sites/connectedstories/photos/2017/07-July/2017-07-31",
+		"/Users/redwylie/Sites/connectedstories/photos/2017/07-July/2017-07-31/street-1",
+		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August",
+		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August/2017-08-01",
+		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August/2017-08-01/street-1",
 		"/Users/redwylie/Sites/connectedstories/views",
 		"/Users/redwylie/Sites/connectedstories/views/common"
 	],
@@ -945,7 +950,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2119.0,
+						"translation.y": 2149.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
