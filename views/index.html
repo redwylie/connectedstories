@@ -18,14 +18,35 @@
 		<div class="row">
 			{% for category in categories %}
 				<div class="col-sm-4">
-					<a href="story.php?set={{category.set}}" class="link">
-						<div class="panel panel-default card" data-content="{{image.title}}">
+					{% if category.set == 'Humans of JP' %}
+						<a href="http://www.humansofjp.com" target="_blank" class="link">
+					{% elseif category.set == 'Portfolio'%}
+						<a href="http://www.redwylie.com" target="_blank" class="link">
+					{% else %}
+						<a href="story.php?set={{category.set}}" class="link">
+					{% endif %}
+						<div class="panel panel-default card">
 							<div class="panel-heading" style="background-image: url('{{category.folder}}/thumbnail.jpg')" ></div>
 							<div class="panel-body">
-								<h1>{{ category.set }} <small class="pull-right">{{setYear}}</small></h1>
-								<p class="visible-xs visible-md">{{ category.storyCaption|length > 110 ? category.storyCaption|striptags|slice(0, 110) ~ '...' : category.storyCaption|striptags  }}</p>
-								<p class="visible-sm">{{ category.storyCaption|length > 72 ? category.storyCaption|striptags|slice(0, 72) ~ '...' : category.storyCaption|striptags  }}</p>
-								<p class="visible-lg">{{ category.storyCaption|length > 140 ? category.storyCaption|striptags|slice(0, 140) ~ '...' : category.storyCaption|striptags  }}</p>
+								<h1>{{ category.set }} <small class="pull-right">{{category.year}}</small></h1>
+								<p class="visible-xs visible-md">
+									{{ category.storyCaption|length > 110 ? category.storyCaption|striptags|slice(0, 110) ~ '...' : category.storyCaption|striptags  }}
+									{% if ((category.set == 'Humans of JP') or (category.set == 'Portfolio')) %}
+										&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i>
+									{% endif %}
+								</p>
+								<p class="visible-sm">
+									{{ category.storyCaption|length > 72 ? category.storyCaption|striptags|slice(0, 72) ~ '...' : category.storyCaption|striptags  }}
+									{% if ((category.set == 'Humans of JP') or (category.set == 'Portfolio')) %}
+										&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i>
+									{% endif %}
+								</p>
+								<p class="visible-lg">
+									{{ category.storyCaption|length > 140 ? category.storyCaption|striptags|slice(0, 140) ~ '...' : category.storyCaption|striptags  }}
+									{% if ((category.set == 'Humans of JP') or (category.set == 'Portfolio')) %}
+										&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i>
+									{% endif %}
+								</p>
 							</div><!-- .panel-body -->
 						</div><!-- .card -->
 					</a>

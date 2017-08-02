@@ -130,7 +130,33 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
-}
+},
 
+
+{"_id": "lali-1"
+    , "folder": "photos/2017/07-July/2017-07-07/lali-1"
+    , "title": "Humans of JP"
+    , "caption":"A recent transplant from Los Angeles California. Lali's advice to her new JP neighbors - <em>'have no plans and have fun, go out and see what happens'</em> "
+    , "year": ""
+    , "category": "Humans of JP"
+    , "viewOnCategories": true
+    , "set":"Humans of JP"
+    , "partOfSet": true
+    , "story" : true
+    , "storyCaption" : "Interviews with the people who live, work, and visit Jamaica Plain MA"
+},
+
+{"_id": "george-1"
+    , "folder": "photos/2017/05-May/2017-05-10/george-1"
+    , "title": "redwylie.com"
+    , "caption":""
+    , "year": ""
+    , "category": "Portfolio"
+    , "viewOnCategories": true
+    , "set":"Portfolio"
+    , "partOfSet": true
+    , "story" : true
+    , "storyCaption" : "My full portfolio at redwylie.com"
+}
 
 ]}
