@@ -1,0 +1,42 @@
+<!doctype html>
+
+<head>
+	{% include 'common/meta.html' %}
+	{% include 'common/styles.html' %}
+</head>
+<body>
+	<?php include_once("analyticstracking.php") ?>
+	{% include 'common/nav.html' with {'foo': 'bar'} %}
+
+	<div class="jumbotron">
+		<div class="container">
+			<h1>The Audible Ginger</h1>
+ 		</div><!-- .container -->
+	</div><!-- .jumbotron -->
+
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-9">
+
+				<div class="page-header">
+					<h1>The Audible Ginger - Edit 1 - July 30, 2017</h1>
+				</div>
+				
+				<audio controls>
+					<source src="audio/TAG/2017-07-30/The-Audible-Ginger-July-30-2017.mp3" type="audio/mpeg">
+					Your browser does not support the audio element.
+				</audio>
+				<br/>
+				<a href="audio/TAG/2017-07-30/The-Audible-Ginger-July-30-2017.mp3" target="_blank"> Download MP3</a>
+			</div><!-- .col -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+
+	<br/>
+
+	{% include 'common/footer.html' %}
+	{% include 'common/scripts.html' %}
+	{% include 'common/tracking.html' %}
+
+</body>
+</html>
