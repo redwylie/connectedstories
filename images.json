@@ -9,7 +9,7 @@
     , "viewOnCategories": true
     , "set":"The Gentleman"
     , "partOfSet": true
-    , "setCount": "12"
+    , "setCount": "14"
     , "story" : true
     , "storyCaption" : "The invisible strangers that we pass everyday, for years, decades, as our well worn route takes us past the same places, at the same time, to the same destination, every day.  Seldom paying attention, hardly noticing the changes, the faces, the life.  The things we turn our eyes away from. What would happen if you looked at one place every day, paused for just a few moments. "
     , "storyIntro" : "<p>Leaving the studio with my camera, the controlled space where I have been working almost exclusively for the past year, my daily commute becoming a vehicle for exploration - encountering a stranger.</p><p>The invisible strangers that we pass everyday, for years, decades, as our well worn route takes us past the same places, at the same time, to the same destination, every day.  Seldom paying attention, hardly noticing the changes, the faces, the life.  The things we turn our eyes away from. What would happen if you looked at one place every day, paused for just a few moments. </p>"
@@ -142,6 +142,29 @@
     , "set":"The Gentleman"
     , "partOfSet": true
 },
+
+{"_id": "street-13"
+    , "folder": "photos/2017/08-August/2017-08-07/street-1"
+    , "title": "August 7, 2017"
+    , "caption":"The plaza is filled with the chatter of seagulls, pecking at the remnants of food on a piece of paper. The low hum of traffic can also be heard, otherwise a quiet morning.  Turning my camera outward, I sit on the benches I have captured many times. The gentleman is not present."
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
+{"_id": "street-14"
+    , "folder": "photos/2017/08-August/2017-08-08/street-1"
+    , "title": "August 8, 2017"
+    , "caption":"Unseasonable cool temperatures this morning, seagulls continue to go about their business while a generator echoes across the plaza making it impossible to pinpoint. The frame is split in two, worlds apart. The gentleman is not present."
+    , "year": "2017"
+    , "category": "Street Photography"
+    , "viewOnCategories": false
+    , "set":"The Gentleman"
+    , "partOfSet": true
+},
+
 
 {"_id": "lali-1"
     , "folder": "photos/2017/07-July/2017-07-07/lali-1"
