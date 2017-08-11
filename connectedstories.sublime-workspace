@@ -388,7 +388,7 @@
 			"file": "images.json",
 			"settings":
 			{
-				"buffer_size": 8961,
+				"buffer_size": 10077,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1056,15 +1056,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8961,
+						"buffer_size": 10077,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								376,
-								376
+								9208,
+								9208
 							]
 						],
 						"settings":
@@ -1078,7 +1078,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1939.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
