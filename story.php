@@ -16,6 +16,7 @@ $set = null;
 $set = $_GET['set'];
 $hideSetTitles = false;
 $setYear = null;
+$interview = null;
 
 $file = file_get_contents('./images.json', true);
 
@@ -37,17 +38,25 @@ foreach ($obj->{'images'} as &$image) {
         if($image->hideTitles == true) {
         	$hideSetTitles = true;
         }
+        if($image->interview != null) {
+        	$interview = $image->interview;
+        }
     };
 }
 
 //var_dump($photo);
+if($interview == null) {
+	$template = $twig->loadTemplate('story.html');
+} else {
+	$template = $twig->loadTemplate('interview.html');
+}
 
-$template = $twig->loadTemplate('story.html');
 echo $template->render(array(
 		'categoryTitle' => $category,
 		'setTitle' => $set,
 		'setYear' => $setYear,
 		'images' => $setImages,
+		'interview' => $interview,
 		'id' => $id,
 		'hideSetTitles' => $hideSetTitles,
 		'view' => 'Set',

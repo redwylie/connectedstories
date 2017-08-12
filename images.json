@@ -187,7 +187,15 @@
     , "partOfSet": true
 },
 
-
+{"_id": "rocklen-1"
+    , "folder": "photos/2017/08-August/2017-08-06/rocklen-4"
+    , "year": "2017"
+    , "category": "The Artist Stories"
+    , "viewOnCategories": true
+    , "set":"Melissa Rocklen"
+    , "interview" : "rocklen"
+    , "storyCaption" : "The Artist Stories - Vol 1"
+},
 
 {"_id": "lali-1"
     , "folder": "photos/2017/07-July/2017-07-07/lali-1"
