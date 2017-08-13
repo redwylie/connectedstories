@@ -3374,6 +3374,12 @@ footer .text-muted {
 footer p {
   margin-bottom: 0px; }
 
+footer span {
+  margin-bottom: 0px;
+  line-height: 15px;
+  padding-top: 5px;
+  display: inline-block; }
+
 .zoom-footer {
   height: 30px;
   background-color: #111; }
@@ -3531,10 +3537,6 @@ a.link:hover {
 .jumbotron.jumbotron-sets {
   background-color: #434a54; }
 
-.jumbotron.jumbotron-interview {
-  background-color: #434a54;
-  margin-bottom: 0px; }
-
 @media (max-width: 767px) {
   .jumbotron {
     margin-bottom: 0px; }
@@ -3544,6 +3546,48 @@ a.link:hover {
 @media (min-width: 768px) and (max-width: 991px) {
   .jumbotron h1 {
     font-size: 75px; } }
+
+.jumbotron.jumbotron-rocklen {
+  background-color: #434a54;
+  margin-bottom: 0px;
+  background-image: url("../../../../photos/2017/08-August/2017-08-06/rocklen-13/photo.jpg");
+  background-size: cover;
+  background-position: top; }
+  .jumbotron.jumbotron-rocklen h1 {
+    font-size: 200px;
+    font-weight: 500;
+    line-height: 140px;
+    letter-spacing: -20px; }
+  .jumbotron.jumbotron-rocklen p {
+    margin: 20px 15px;
+    padding: 10px 15px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    border-left: 0px solid #eeeeee;
+    background-color: rgba(0, 0, 0, 0.45); }
+
+@media (max-width: 767px) {
+  .jumbotron.jumbotron-rocklen {
+    padding-top: 0px; }
+    .jumbotron.jumbotron-rocklen h1 {
+      font-size: 100px;
+      font-weight: 500;
+      line-height: 70px;
+      letter-spacing: -10px; }
+    .jumbotron.jumbotron-rocklen h5 {
+      margin-top: 0px; }
+    .jumbotron.jumbotron-rocklen p {
+      margin: 20px 0px 0 0;
+      padding: 10px 15px;
+      font-size: 16px; } }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .jumbotron.jumbotron-rocklen h1 {
+    font-size: 150px;
+    font-weight: 500;
+    line-height: 100px;
+    letter-spacing: -15px; } }
 
 h3 {
   margin-bottom: 15px;

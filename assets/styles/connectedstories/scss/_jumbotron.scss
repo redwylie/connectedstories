@@ -20,19 +20,13 @@
     background-color: $gray-three-shadow;
 }
 
-.jumbotron.jumbotron-interview {
-    background-color: $gray-three-shadow;
-    margin-bottom: 0px;
-}
 
 @media (max-width: $screen-xs-max) {
 
     .jumbotron {
-
         h1 {
             font-size: 25px;
         }
-
         margin-bottom: 0px;
     }
 

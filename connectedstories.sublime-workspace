@@ -339,6 +339,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "views/artists/rocklen.html",
+			"settings":
+			{
+				"buffer_size": 19974,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -402,8 +411,10 @@
 		"/Users/redwylie/Sites/connectedstories/photos",
 		"/Users/redwylie/Sites/connectedstories/photos/2017",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August",
+		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August/2017-08-06",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August/2017-08-08",
 		"/Users/redwylie/Sites/connectedstories/views",
+		"/Users/redwylie/Sites/connectedstories/views/artists",
 		"/Users/redwylie/Sites/connectedstories/views/common"
 	],
 	"file_history":
@@ -773,8 +784,41 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "views/artists/rocklen.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16212,
+								16212
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5523.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		},
 		{

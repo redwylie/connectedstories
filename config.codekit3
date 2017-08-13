@@ -379,6 +379,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/styles\/connectedstories\/scss\/interviews\/_rocklen.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/styles\/connectedstories\/scss\/interviews\/_rocklen.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/styles\/connectedstories\/scss\/variables\/_colors.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -865,6 +878,33 @@
 		"iS": 96215,
 		"oA": 0,
 		"oAP": "\/photos\/2017\/08-August\/2017-08-06\/rocklen-12\/thumbnail.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/photos\/2017\/08-August\/2017-08-06\/rocklen-13\/photo.jpg": {
+		"ft": 16384,
+		"iS": 198092,
+		"oA": 0,
+		"oAP": "\/photos\/2017\/08-August\/2017-08-06\/rocklen-13\/photo.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/photos\/2017\/08-August\/2017-08-06\/rocklen-2\/photo.jpg": {
+		"ft": 16384,
+		"iS": 527801,
+		"oA": 0,
+		"oAP": "\/photos\/2017\/08-August\/2017-08-06\/rocklen-2\/photo.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/photos\/2017\/08-August\/2017-08-06\/rocklen-2\/thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 150557,
+		"oA": 0,
+		"oAP": "\/photos\/2017\/08-August\/2017-08-06\/rocklen-2\/thumbnail.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100

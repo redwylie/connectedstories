@@ -21,6 +21,9 @@
 				"vendor"
 			],
 			"path": "."
+		},
+		{
+			"path": "/Users/redwylie/Sites/siteassets"
 		}
 	]
 }
