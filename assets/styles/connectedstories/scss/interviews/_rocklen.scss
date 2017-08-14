@@ -23,6 +23,18 @@
     }
 }
 
+.jumbotron.jumbotron-rocklen.jumbotron-connection {
+    background-image: none;
+
+    h1 {
+        font-size: 140px;
+        font-weight: 500; 
+        line-height: 99px;
+        letter-spacing: -5px;
+    }
+
+}
+
 @media (max-width: $screen-xs-max) {
 
     .jumbotron.jumbotron-rocklen {
@@ -41,11 +53,20 @@
         }
 
         p {
-        margin: 20px 0px 0 0;
-        padding: 10px 15px;
-        font-size: 16px;
+            margin: 20px 0px 0 0;
+            padding: 10px 15px;
+            font-size: 16px;
+        }
     }
 
+    .jumbotron.jumbotron-rocklen.jumbotron-connection {
+
+        h1 {
+            font-size: 40px;
+            font-weight: 500; 
+            line-height: 25px;
+            letter-spacing: -3px;
+        }
 
     }
 
@@ -63,4 +84,30 @@
         }
     }
 
+    .jumbotron.jumbotron-rocklen.jumbotron-connection {
+
+        h1 {
+            font-size: 90px;
+            font-weight: 500; 
+            line-height: 90px;
+            letter-spacing: -5px;
+        }
+
+    }
+
 }
+
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+
+    .jumbotron.jumbotron-rocklen.jumbotron-connection {
+
+        h1 {
+            font-size: 120px;
+            font-weight: 500; 
+            line-height: 90px;
+            letter-spacing: -5px;
+        }
+
+    }
+
+} 
