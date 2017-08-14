@@ -33,6 +33,15 @@
         letter-spacing: -5px;
     }
 
+    .from {
+        color: $gray-two-highlight;
+    }
+
+    .img-link {
+        padding-left: 20px;
+        padding-top: 100px;
+    }
+
 }
 
 @media (max-width: $screen-xs-max) {
@@ -68,6 +77,11 @@
             letter-spacing: -3px;
         }
 
+        .img-link {
+            padding-left: 0px;
+            padding-top: 40px;
+        }
+
     }
 
 }
@@ -89,8 +103,13 @@
         h1 {
             font-size: 90px;
             font-weight: 500; 
-            line-height: 90px;
+            line-height: 60px;
             letter-spacing: -5px;
+        }
+
+        .img-link {
+            padding-left: 20px;
+            padding-top: 60px;
         }
 
     }

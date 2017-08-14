@@ -4,8 +4,12 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-left"
+			],
+			[
 				"mar",
-				"margin-bottom"
+				"margin-top"
 			],
 			[
 				"li",
@@ -22,10 +26,6 @@
 			[
 				"font",
 				"font-size"
-			],
-			[
-				"padd",
-				"padding-bottom"
 			],
 			[
 				"border-bott",
@@ -339,6 +339,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "views/artists/rocklen.html",
+			"settings":
+			{
+				"buffer_size": 21502,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/styles/connectedstories/scss/interviews/_rocklen.scss",
+			"settings":
+			{
+				"buffer_size": 2552,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -391,28 +409,36 @@
 	[
 		"/Users/redwylie/Sites/connectedstories",
 		"/Users/redwylie/Sites/connectedstories/assets",
+		"/Users/redwylie/Sites/connectedstories/assets/images",
+		"/Users/redwylie/Sites/connectedstories/assets/images/icons",
 		"/Users/redwylie/Sites/connectedstories/assets/styles",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/interviews",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/variables",
 		"/Users/redwylie/Sites/connectedstories/photos",
 		"/Users/redwylie/Sites/connectedstories/photos/2017",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August",
-		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August/2017-08-06",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August/2017-08-08",
 		"/Users/redwylie/Sites/connectedstories/views",
 		"/Users/redwylie/Sites/connectedstories/views/artists",
-		"/Users/redwylie/Sites/connectedstories/views/common"
+		"/Users/redwylie/Sites/connectedstories/views/common",
+		"/Users/redwylie/Sites/siteassets",
+		"/Users/redwylie/Sites/siteassets/styles",
+		"/Users/redwylie/Sites/siteassets/styles/redwylie",
+		"/Users/redwylie/Sites/siteassets/styles/redwylie/scss",
+		"/Users/redwylie/Sites/siteassets/styles/redwylie/scss/variables"
 	],
 	"file_history":
 	[
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css/connectedstories.css",
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_jumbotron.scss",
+		"/Users/redwylie/Sites/siteassets/styles/redwylie/scss/variables/_colors.scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/connectedstories.scss",
 		"/Users/redwylie/Sites/connectedstories/views/artists/rocklen.html",
 		"/Users/redwylie/Sites/connectedstories/images.json",
-		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_jumbotron.scss",
 		"/Users/redwylie/Sites/connectedstories/views/interview.html",
-		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css/connectedstories.css",
 		"/Users/redwylie/Sites/connectedstories/views/common/s-tail.html",
 		"/Users/redwylie/Sites/connectedstories/views/common/s-head.html",
 		"/Users/redwylie/Sites/connectedstories/views/story.html",
@@ -533,8 +559,7 @@
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/apps/angularjs/modules/inputLocalizer/inputLocalizer.js",
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/email/output.html",
 		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/templates/email/template.html",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/styles/mghlcs/scss/_study.scss",
-		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/styles/mghlcs/scss/prp-wc.scss"
+		"/Users/redwylie/Drive/Work/LCS/PRP/src/main/resources/static/assets/styles/mghlcs/scss/_study.scss"
 	],
 	"find":
 	{
@@ -591,6 +616,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"140px",
 			"career",
 			"20px",
 			"small",
@@ -717,8 +743,7 @@
 			"<label data-i18n=\"search.labelMinimumAmount\">Minimum Ammount</label>\n                                    <input type=\"number\" ng-model=\"model.includesCompensationMinAmount\" ng-change=\"updateLocation('includesCompensationMinAmount');onInclude('includesCompensationMinAmount')\"/>\n                                </div>",
 			"labelSearchFundingSource",
 			"form-group",
-			"</label>",
-			"<label>"
+			"</label>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -772,13 +797,86 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "views/artists/rocklen.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17439,
+								17439
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5506.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 1,
+					"file": "assets/styles/connectedstories/scss/interviews/_rocklen.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1635,
+								1635
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 409.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"file": "assets/images/icons/link-icon.png",
+					"semi_transient": true,
+					"stack_index": 0,
+					"type": "image"
+				}
 			]
 		}
 	],
@@ -1262,7 +1360,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},

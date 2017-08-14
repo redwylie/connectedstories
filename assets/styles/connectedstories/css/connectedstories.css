@@ -3568,6 +3568,11 @@ a.link:hover {
     font-weight: 500;
     line-height: 99px;
     letter-spacing: -5px; }
+  .jumbotron.jumbotron-rocklen.jumbotron-connection .from {
+    color: #ccd1d9; }
+  .jumbotron.jumbotron-rocklen.jumbotron-connection .img-link {
+    padding-left: 20px;
+    padding-top: 100px; }
 
 @media (max-width: 767px) {
   .jumbotron.jumbotron-rocklen {
@@ -3587,7 +3592,10 @@ a.link:hover {
     font-size: 40px;
     font-weight: 500;
     line-height: 25px;
-    letter-spacing: -3px; } }
+    letter-spacing: -3px; }
+  .jumbotron.jumbotron-rocklen.jumbotron-connection .img-link {
+    padding-left: 0px;
+    padding-top: 40px; } }
 
 @media (min-width: 768px) and (max-width: 991px) {
   .jumbotron.jumbotron-rocklen h1 {
@@ -3598,8 +3606,11 @@ a.link:hover {
   .jumbotron.jumbotron-rocklen.jumbotron-connection h1 {
     font-size: 90px;
     font-weight: 500;
-    line-height: 90px;
-    letter-spacing: -5px; } }
+    line-height: 60px;
+    letter-spacing: -5px; }
+  .jumbotron.jumbotron-rocklen.jumbotron-connection .img-link {
+    padding-left: 20px;
+    padding-top: 60px; } }
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .jumbotron.jumbotron-rocklen.jumbotron-connection h1 {
