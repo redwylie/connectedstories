@@ -339,15 +339,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "views/artists/rocklen.html",
-			"settings":
-			{
-				"buffer_size": 19974,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -405,9 +396,6 @@
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/variables",
-		"/Users/redwylie/Sites/connectedstories/audio",
-		"/Users/redwylie/Sites/connectedstories/audio/TAG",
-		"/Users/redwylie/Sites/connectedstories/audio/TAG/2017-07-30",
 		"/Users/redwylie/Sites/connectedstories/photos",
 		"/Users/redwylie/Sites/connectedstories/photos/2017",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August",
@@ -419,9 +407,9 @@
 	],
 	"file_history":
 	[
+		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/connectedstories.scss",
 		"/Users/redwylie/Sites/connectedstories/views/artists/rocklen.html",
 		"/Users/redwylie/Sites/connectedstories/images.json",
-		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/connectedstories.scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/_jumbotron.scss",
 		"/Users/redwylie/Sites/connectedstories/views/interview.html",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css/connectedstories.css",
@@ -784,41 +772,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "views/artists/rocklen.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19974,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16212,
-								16212
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 5523.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		},
 		{
