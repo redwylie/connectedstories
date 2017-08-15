@@ -952,12 +952,6 @@
 		"oAP": "\/connectedstories.sublime-project",
 		"oF": 0
 		},
-	"\/connectedstories.sublime-workspace": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/connectedstories.sublime-workspace",
-		"oF": 0
-		},
 	"\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
@@ -5270,12 +5264,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/views\/about.html",
-		"oF": 0
-		},
-	"\/views\/artists\/rocklen.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/views\/artists\/rocklen.html",
 		"oF": 0
 		},
 	"\/views\/common\/card.html": {
