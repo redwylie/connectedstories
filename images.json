@@ -8,6 +8,7 @@
     , "category": "The Gentleman"
     , "viewOnCategories": true
     , "set":"The Gentleman"
+    , "setTitle":"The Gentleman"
     , "partOfSet": true
     , "setCount": "16"
     , "story" : true
@@ -192,9 +193,10 @@
     , "year": "2017"
     , "category": "The Artist Stories"
     , "viewOnCategories": true
-    , "set":"Melissa Rocklen"
+    , "set":"melissarocklen"
+    , "setTitle":"Melissa Rocklen"
     , "interview" : "rocklen"
-    , "storyCaption" : "The Artist Stories - Vol 1"
+    , "storyCaption" : "The Artist Stories - Vol 1. I visit with mobile artist Melissa Rocklen in her Jamaica Plain studio to kick off this new series."
 },
 
 {"_id": "lali-1"

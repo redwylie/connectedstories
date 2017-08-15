@@ -28,7 +28,7 @@
 						<div class="panel panel-default card">
 							<div class="panel-heading" style="background-image: url('{{category.folder}}/thumbnail.jpg')" ></div>
 							<div class="panel-body">
-								<h1>{{ category.set }} <small class="pull-right">{{category.year}}</small></h1>
+								<h1>{{ category.setTitle }} <small class="pull-right">{{category.year}}</small></h1>
 								<p class="visible-xs visible-md">
 									{{ category.storyCaption|length > 110 ? category.storyCaption|striptags|slice(0, 110) ~ '...' : category.storyCaption|striptags  }}
 									{% if ((category.set == 'Humans of JP') or (category.set == 'Portfolio')) %}

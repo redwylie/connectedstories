@@ -53,6 +53,11 @@ h1 small {
 
 }
 
+footer .text-muted {
+	display: inline-block;
+	margin-top: 3px;
+}
+
 @media (max-width: $screen-xs-max) {
  
 	.page-interview {
