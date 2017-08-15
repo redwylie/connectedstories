@@ -343,7 +343,7 @@
 			"file": "views/artists/rocklen.html",
 			"settings":
 			{
-				"buffer_size": 21502,
+				"buffer_size": 21549,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -806,15 +806,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21502,
+						"buffer_size": 21549,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								17439,
-								17439
+								18004,
+								18004
 							]
 						],
 						"settings":
@@ -826,18 +826,12 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 5506.0,
+						"translation.y": 5427.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 1,
 					"file": "assets/styles/connectedstories/scss/interviews/_rocklen.scss",
@@ -868,13 +862,13 @@
 						"translation.y": 409.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"file": "assets/images/icons/link-icon.png",
 					"semi_transient": true,
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "image"
 				}
 			]
@@ -897,18 +891,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -1360,7 +1347,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
