@@ -343,7 +343,7 @@
 			"file": "views/artists/rocklen.html",
 			"settings":
 			{
-				"buffer_size": 19265,
+				"buffer_size": 19269,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -352,7 +352,7 @@
 			"file": "images.json",
 			"settings":
 			{
-				"buffer_size": 10531,
+				"buffer_size": 10532,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -361,7 +361,7 @@
 			"file": "/Users/redwylie/Sites/siteassets/styles/redwylie/scss/_global.scss",
 			"settings":
 			{
-				"buffer_size": 2238,
+				"buffer_size": 2237,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -388,7 +388,7 @@
 			"file": "assets/styles/connectedstories/css/connectedstories.css",
 			"settings":
 			{
-				"buffer_size": 94460,
+				"buffer_size": 94461,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -397,7 +397,7 @@
 			"file": "/Users/redwylie/Sites/siteassets/styles/redwylie/scss/_go-top.scss",
 			"settings":
 			{
-				"buffer_size": 527,
+				"buffer_size": 550,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -415,6 +415,15 @@
 			"settings":
 			{
 				"buffer_size": 2464,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/styles/connectedstories/scss/_jumbotron.scss",
+			"settings":
+			{
+				"buffer_size": 616,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -884,15 +893,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19265,
+						"buffer_size": 19269,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16195,
-								16195
+								10097,
+								10097
 							]
 						],
 						"settings":
@@ -904,7 +913,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 5464.0,
+						"translation.y": 5449.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -916,15 +925,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10531,
+						"buffer_size": 10532,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9659,
-								9659
+								435,
+								435
 							]
 						],
 						"settings":
@@ -936,8 +945,8 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 31.0,
-						"translation.y": 1909.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
@@ -949,7 +958,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2238,
+						"buffer_size": 2237,
 						"regions":
 						{
 						},
@@ -971,7 +980,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -1004,7 +1013,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -1036,7 +1045,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -1045,15 +1054,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 94460,
+						"buffer_size": 94461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								89847,
-								89297
+								227,
+								227
 							]
 						],
 						"settings":
@@ -1066,10 +1075,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 51755.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1078,7 +1087,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 527,
+						"buffer_size": 550,
 						"regions":
 						{
 						},
@@ -1096,19 +1105,19 @@
 							"synced": false,
 							"syntax": "Packages/SCSS/SCSS.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": false
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 11,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1141,7 +1150,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -1178,6 +1187,39 @@
 				},
 				{
 					"buffer": 9,
+					"file": "assets/styles/connectedstories/scss/_jumbotron.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
 					"file": "views/story.html",
 					"semi_transient": false,
 					"settings":
@@ -1205,11 +1247,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 11,
 					"file": "views/interview.html",
 					"semi_transient": false,
 					"settings":
@@ -1237,7 +1279,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
