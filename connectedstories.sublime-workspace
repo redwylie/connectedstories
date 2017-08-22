@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"n",
+				"nthmac"
+			],
+			[
 				"padd",
 				"padding-left"
 			],
@@ -276,10 +280,6 @@
 				"middle"
 			],
 			[
-				"n",
-				"none"
-			],
-			[
 				"in",
 				"inline-block"
 			],
@@ -352,7 +352,7 @@
 			"file": "images.json",
 			"settings":
 			{
-				"buffer_size": 10531,
+				"buffer_size": 10549,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -411,10 +411,10 @@
 			}
 		},
 		{
-			"file": "views/index.html",
+			"file": "story.php",
 			"settings":
 			{
-				"buffer_size": 2464,
+				"buffer_size": 1501,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -494,6 +494,7 @@
 	],
 	"file_history":
 	[
+		"/Users/redwylie/Sites/connectedstories/views/index.html",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/interviews/_rocklen.scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/css/connectedstories.css",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/connectedstories.scss",
@@ -508,7 +509,6 @@
 		"/Users/redwylie/Sites/connectedstories/story.php",
 		"/Users/redwylie/Sites/connectedstories/tag.php",
 		"/Users/redwylie/Sites/connectedstories/index.php",
-		"/Users/redwylie/Sites/connectedstories/views/index.html",
 		"/Users/redwylie/Sites/connectedstories/views/tag.html",
 		"/Users/redwylie/Sites/connectedstories/views/common/footer.html",
 		"/Users/redwylie/Sites/connectedstories/photo.php",
@@ -900,15 +900,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10531,
+						"buffer_size": 10549,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9659,
-								9659
+								9515,
+								9527
 							]
 						],
 						"settings":
@@ -920,8 +920,8 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 31.0,
-						"translation.y": 2088.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1130,19 +1130,19 @@
 				},
 				{
 					"buffer": 8,
-					"file": "views/index.html",
+					"file": "story.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2464,
+						"buffer_size": 1501,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1618,
-								1618
+								815,
+								815
 							]
 						],
 						"settings":
@@ -1150,8 +1150,7 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1643,7 +1642,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},

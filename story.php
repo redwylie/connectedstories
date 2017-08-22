@@ -15,8 +15,10 @@ $category = $_GET['category'];
 $set = null;
 $set = $_GET['set'];
 $hideSetTitles = false;
+$setTitle = null;
 $setYear = null;
 $interview = null;
+$storyCaption = null;
 
 $file = file_get_contents('./images.json', true);
 
@@ -35,6 +37,8 @@ foreach ($obj->{'images'} as &$image) {
     if ($image->set == $set) {
         array_push($setImages, $image);
         $setYear = $image->year;
+        $setTitle = $image->setTitle;
+        $storyCaption = $image->storyCaption;
         if($image->hideTitles == true) {
         	$hideSetTitles = true;
         }
@@ -60,8 +64,8 @@ echo $template->render(array(
 		'id' => $id,
 		'hideSetTitles' => $hideSetTitles,
 		'view' => 'Set',
-		'title' => 'Connected Stories - '.$set,
-		'description' => 'Photo Essays and Projects'
+		'title' => 'Connected Stories - '.$setTitle,
+		'description' => $storyCaption
 	));
 
 ?>
