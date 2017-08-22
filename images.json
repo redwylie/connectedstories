@@ -1,5 +1,17 @@
 {"images": [
 
+{"_id": "rocklen-1"
+    , "folder": "photos/2017/08-August/2017-08-06/rocklen-4"
+    , "year": "2017"
+    , "category": "The Artist Stories"
+    , "viewOnCategories": true
+    , "set":"melissarocklen"
+    , "setTitle":"Melissa Rocklen"
+    , "interview" : "rocklen"
+    , "storyCaption" : "The Artist Stories - Vol 1. I visit with mobile artist Melissa Rocklen in her Jamaica Plain studio to kick off this new series."
+},
+
+
 {"_id": "street-1"
     , "folder": "photos/2017/06-June/2017-06-22/street-1"
     , "title": "June 22, 2017"
@@ -186,17 +198,6 @@
     , "viewOnCategories": false
     , "set":"The Gentleman"
     , "partOfSet": true
-},
-
-{"_id": "rocklen-1"
-    , "folder": "photos/2017/08-August/2017-08-06/rocklen-4"
-    , "year": "2017"
-    , "category": "The Artist Stories"
-    , "viewOnCategories": true
-    , "set":"melissarocklen"
-    , "setTitle":"Melissa Rocklen"
-    , "interview" : "rocklen"
-    , "storyCaption" : "The Artist Stories - Vol 1 - August 6, 2017 - I visit with mobile artist Melissa Rocklen in her Jamaica Plain studio to kick off this new series."
 },
 
 {"_id": "lali-1"

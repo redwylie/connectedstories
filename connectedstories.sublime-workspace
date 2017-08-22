@@ -343,7 +343,7 @@
 			"file": "views/artists/rocklen.html",
 			"settings":
 			{
-				"buffer_size": 19317,
+				"buffer_size": 19269,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -352,8 +352,34 @@
 			"file": "images.json",
 			"settings":
 			{
-				"buffer_size": 10549,
+				"buffer_size": 10532,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tag.php",
+			"settings":
+			{
+				"buffer_size": 840,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/tag.html",
+			"settings":
+			{
+				"buffer_size": 1421,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "audio/TAG/2017-08-20/SallyMarkMel-2017-08-20.mp3",
+			"settings":
+			{
+				"buffer_size": 177865302,
+				"encoding": "Hexadecimal",
 				"line_ending": "Unix"
 			}
 		},
@@ -388,7 +414,7 @@
 			"file": "assets/styles/connectedstories/css/connectedstories.css",
 			"settings":
 			{
-				"buffer_size": 94460,
+				"buffer_size": 94461,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -479,6 +505,9 @@
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/interviews",
 		"/Users/redwylie/Sites/connectedstories/assets/styles/connectedstories/scss/variables",
+		"/Users/redwylie/Sites/connectedstories/audio",
+		"/Users/redwylie/Sites/connectedstories/audio/TAG",
+		"/Users/redwylie/Sites/connectedstories/audio/TAG/2017-08-20",
 		"/Users/redwylie/Sites/connectedstories/photos",
 		"/Users/redwylie/Sites/connectedstories/photos/2017",
 		"/Users/redwylie/Sites/connectedstories/photos/2017/08-August",
@@ -868,15 +897,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19317,
+						"buffer_size": 19269,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16127,
-								16127
+								0,
+								0
 							]
 						],
 						"settings":
@@ -891,7 +920,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -900,15 +929,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10549,
+						"buffer_size": 10532,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9515,
-								9527
+								9665,
+								9665
 							]
 						],
 						"settings":
@@ -921,6 +950,71 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+						"translation.y": 1123.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tag.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/tag.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -928,7 +1022,37 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
+					"file": "audio/TAG/2017-08-20/SallyMarkMel-2017-08-20.mp3",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 177865302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "/Users/redwylie/Sites/siteassets/styles/redwylie/scss/_global.scss",
 					"semi_transient": false,
 					"settings":
@@ -955,11 +1079,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 6,
 					"file": "assets/styles/connectedstories/scss/_cards.scss",
 					"semi_transient": false,
 					"settings":
@@ -988,11 +1112,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 7,
 					"file": "assets/styles/connectedstories/scss/connectedstories.scss",
 					"semi_transient": false,
 					"settings":
@@ -1020,24 +1144,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 8,
 					"file": "assets/styles/connectedstories/css/connectedstories.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 94460,
+						"buffer_size": 94461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								89847,
-								89297
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1053,11 +1177,11 @@
 						"translation.y": 51755.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 9,
 					"file": "/Users/redwylie/Sites/siteassets/styles/redwylie/scss/_go-top.scss",
 					"semi_transient": false,
 					"settings":
@@ -1086,7 +1210,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 11,
 					"type": "text"
 				}
 			]
@@ -1096,7 +1220,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 7,
+					"buffer": 10,
 					"file": "index.php",
 					"semi_transient": false,
 					"settings":
@@ -1125,11 +1249,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 11,
 					"file": "story.php",
 					"semi_transient": false,
 					"settings":
@@ -1150,13 +1274,15 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
