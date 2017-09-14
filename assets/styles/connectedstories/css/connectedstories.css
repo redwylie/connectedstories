@@ -1701,16 +1701,16 @@ fieldset[disabled] a.btn {
   border-color: #ccc; }
   .btn-default:focus, .btn-default.focus {
     color: #333;
-    background-color: #e6e6e6;
+    background-color: #e6e5e5;
     border-color: #8c8c8c; }
   .btn-default:hover {
     color: #333;
-    background-color: #e6e6e6;
+    background-color: #e6e5e5;
     border-color: #adadad; }
   .btn-default:active, .btn-default.active,
   .open > .btn-default.dropdown-toggle {
     color: #333;
-    background-color: #e6e6e6;
+    background-color: #e6e5e5;
     border-color: #adadad; }
     .btn-default:active:hover, .btn-default:active:focus, .btn-default:active.focus, .btn-default.active:hover, .btn-default.active:focus, .btn-default.active.focus,
     .open > .btn-default.dropdown-toggle:hover,
@@ -2403,7 +2403,7 @@ tbody.collapse.in {
   .navbar-default .navbar-brand {
     color: #777; }
     .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-      color: #5e5e5e;
+      color: #5e5d5d;
       background-color: transparent; }
   .navbar-default .navbar-text {
     color: #777; }
@@ -2457,7 +2457,7 @@ tbody.collapse.in {
 
 .navbar-inverse {
   background-color: #222;
-  border-color: #090909; }
+  border-color: #090808; }
   .navbar-inverse .navbar-brand {
     color: #9d9d9d; }
     .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
@@ -2472,7 +2472,7 @@ tbody.collapse.in {
       background-color: transparent; }
   .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
     color: #fff;
-    background-color: #090909; }
+    background-color: #090808; }
   .navbar-inverse .navbar-nav > .disabled > a, .navbar-inverse .navbar-nav > .disabled > a:hover, .navbar-inverse .navbar-nav > .disabled > a:focus {
     color: #444;
     background-color: transparent; }
@@ -2486,13 +2486,13 @@ tbody.collapse.in {
   .navbar-inverse .navbar-form {
     border-color: #101010; }
   .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    background-color: #090909;
+    background-color: #090808;
     color: #fff; }
   @media (max-width: 767px) {
     .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
-      border-color: #090909; }
+      border-color: #090808; }
     .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
-      background-color: #090909; }
+      background-color: #090808; }
     .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
       color: #9d9d9d; }
       .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -2500,7 +2500,7 @@ tbody.collapse.in {
         background-color: transparent; }
     .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
       color: #fff;
-      background-color: #090909; }
+      background-color: #090808; }
     .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:focus {
       color: #444;
       background-color: transparent; } }
@@ -3649,6 +3649,84 @@ a.link:hover {
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .jumbotron.jumbotron-rocklen.jumbotron-connection h1 {
+    font-size: 120px;
+    font-weight: 500;
+    line-height: 90px;
+    letter-spacing: -5px; } }
+
+.jumbotron.jumbotron-hardin {
+  background-color: #434a54;
+  margin-bottom: 0px;
+  background-image: url("../../../../photos/2017/08-August/2017-08-26/hardin-1/photo.jpg");
+  background-size: cover;
+  background-position: top; }
+  .jumbotron.jumbotron-hardin h1 {
+    font-size: 200px;
+    font-weight: 500;
+    line-height: 140px;
+    letter-spacing: -20px; }
+  .jumbotron.jumbotron-hardin p {
+    margin: 20px 15px;
+    padding: 10px 15px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    border-left: 0px solid #eeeeee;
+    background-color: rgba(0, 0, 0, 0.45); }
+
+.jumbotron.jumbotron-hardin.jumbotron-connection {
+  background-image: none; }
+  .jumbotron.jumbotron-hardin.jumbotron-connection h1 {
+    font-size: 140px;
+    font-weight: 500;
+    line-height: 99px;
+    letter-spacing: -5px; }
+  .jumbotron.jumbotron-hardin.jumbotron-connection .from {
+    color: #ccd1d9; }
+  .jumbotron.jumbotron-hardin.jumbotron-connection .img-link {
+    padding-left: 20px;
+    padding-top: 100px; }
+
+@media (max-width: 767px) {
+  .jumbotron.jumbotron-hardin {
+    padding-top: 0px; }
+    .jumbotron.jumbotron-hardin h1 {
+      font-size: 100px;
+      font-weight: 500;
+      line-height: 70px;
+      letter-spacing: -10px; }
+    .jumbotron.jumbotron-hardin h5 {
+      margin-top: 0px; }
+    .jumbotron.jumbotron-hardin p {
+      margin: 20px 0px 0 0;
+      padding: 10px 15px;
+      font-size: 16px; }
+  .jumbotron.jumbotron-hardin.jumbotron-connection h1 {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: -3px; }
+  .jumbotron.jumbotron-hardin.jumbotron-connection .img-link {
+    padding-left: 0px;
+    padding-top: 40px; } }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .jumbotron.jumbotron-hardin h1 {
+    font-size: 150px;
+    font-weight: 500;
+    line-height: 100px;
+    letter-spacing: -15px; }
+  .jumbotron.jumbotron-hardin.jumbotron-connection h1 {
+    font-size: 90px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: -5px; }
+  .jumbotron.jumbotron-hardin.jumbotron-connection .img-link {
+    padding-left: 20px;
+    padding-top: 60px; } }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .jumbotron.jumbotron-hardin.jumbotron-connection h1 {
     font-size: 120px;
     font-weight: 500;
     line-height: 90px;

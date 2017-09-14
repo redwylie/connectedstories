@@ -1,0 +1,132 @@
+.jumbotron.jumbotron-hardin {
+    background-color: $gray-three-shadow;
+    margin-bottom: 0px;
+    background-image: url('../../../../photos/2017/08-August/2017-08-26/hardin-1/photo.jpg');
+    background-size: cover;
+    background-position: top;
+
+    h1{
+        font-size: 200px;
+        font-weight: 500; 
+        line-height: 140px;
+        letter-spacing: -20px;
+    }
+
+    p {
+        margin: 20px 15px;
+        padding: 10px 15px;
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 300;
+        border-left: 0px solid #eeeeee;
+        background-color: rgba(0,0,0,.45)
+    }
+}
+
+.jumbotron.jumbotron-hardin.jumbotron-connection {
+    background-image: none;
+
+    h1 {
+        font-size: 140px;
+        font-weight: 500; 
+        line-height: 99px;
+        letter-spacing: -5px;
+    }
+
+    .from {
+        color: $gray-two-highlight;
+    }
+
+    .img-link {
+        padding-left: 20px;
+        padding-top: 100px;
+    }
+
+}
+
+@media (max-width: $screen-xs-max) {
+
+    .jumbotron.jumbotron-hardin {
+
+        padding-top: 0px;
+
+        h1 {
+            font-size: 100px;
+            font-weight: 500;
+            line-height: 70px;
+            letter-spacing: -10px;
+        }
+
+        h5 {
+            margin-top: 0px;
+        }
+
+        p {
+            margin: 20px 0px 0 0;
+            padding: 10px 15px;
+            font-size: 16px;
+        }
+    }
+
+    .jumbotron.jumbotron-hardin.jumbotron-connection {
+
+        h1 {
+            font-size: 40px;
+            font-weight: 500; 
+            line-height: 25px;
+            letter-spacing: -3px;
+        }
+
+        .img-link {
+            padding-left: 0px;
+            padding-top: 40px;
+        }
+
+    }
+
+}
+
+
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+
+    .jumbotron.jumbotron-hardin {
+        h1 {
+            font-size: 150px;
+            font-weight: 500;
+            line-height: 100px;
+            letter-spacing: -15px;
+        }
+    }
+
+    .jumbotron.jumbotron-hardin.jumbotron-connection {
+
+        h1 {
+            font-size: 90px;
+            font-weight: 500; 
+            line-height: 60px;
+            letter-spacing: -5px;
+        }
+
+        .img-link {
+            padding-left: 20px;
+            padding-top: 60px;
+        }
+
+    }
+
+}
+
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+
+    .jumbotron.jumbotron-hardin.jumbotron-connection {
+
+        h1 {
+            font-size: 120px;
+            font-weight: 500; 
+            line-height: 90px;
+            letter-spacing: -5px;
+        }
+
+    }
+
+} 
